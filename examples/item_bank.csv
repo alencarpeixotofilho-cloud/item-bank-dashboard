@@ -1,0 +1,1201 @@
+"item_id","domain","topic","competency","bloom","author","created","status","stem_words","n_options","has_image","flaws_detected","times_used","p_value","r_pbis"
+"IT00001","Obstetrics & Gynecology","Gynecologic Oncology","Management","Remember","Author 13",2025-01-15,"Under review",21,5,FALSE,2,0,NA,NA
+"IT00002","Surgery","Perioperative Care","Management","Analyze","Author 02",2025-01-15,"Approved",77,5,FALSE,0,0,NA,NA
+"IT00003","Internal Medicine","Endocrinology","Clinical Reasoning","Analyze","Author 10",2025-01-15,"Draft",95,5,FALSE,0,0,NA,NA
+"IT00004","Internal Medicine","Endocrinology","Diagnosis","Remember","Author 07",2025-01-16,"Approved",8,5,FALSE,0,1,0.47,0.2
+"IT00005","Surgery","Acute Abdomen","Management","Apply","Author 05",2025-01-16,"Approved",21,4,FALSE,0,1,0.63,0.42
+"IT00006","Internal Medicine","Endocrinology","Clinical Reasoning","Analyze","Author 17",2025-01-16,"Under review",76,4,FALSE,1,0,NA,NA
+"IT00007","Pediatrics","Pediatric Infections","Prevention","Apply","Author 16",2025-01-16,"Returned",76,5,FALSE,0,0,NA,NA
+"IT00008","Public Health","Preventive Medicine","Diagnosis","Apply","Author 03",2025-01-17,"Approved",105,4,FALSE,0,2,0.33,0.23
+"IT00009","Internal Medicine","Endocrinology","Diagnosis","Understand","Author 13",2025-01-18,"Approved",21,4,TRUE,0,1,0.44,0.51
+"IT00010","Surgery","Perioperative Care","Clinical Reasoning","Analyze","Author 06",2025-01-18,"Approved",66,5,FALSE,1,4,0.12,0.41
+"IT00011","Internal Medicine","Nephrology","Clinical Reasoning","Remember","Author 16",2025-01-18,"Approved",48,4,FALSE,1,1,0.88,0.33
+"IT00012","Obstetrics & Gynecology","Labor & Delivery","Management","Understand","Author 17",2025-01-19,"Approved",17,5,TRUE,0,0,NA,NA
+"IT00013","Internal Medicine","Pulmonology","Clinical Reasoning","Apply","Author 08",2025-01-19,"Approved",124,5,FALSE,0,2,0.7,0.24
+"IT00014","Obstetrics & Gynecology","Gynecologic Oncology","Management","Apply","Author 01",2025-01-20,"Returned",59,5,FALSE,0,0,NA,NA
+"IT00015","Internal Medicine","Nephrology","Clinical Reasoning","Understand","Author 10",2025-01-20,"Returned",56,5,FALSE,0,0,NA,NA
+"IT00016","Pediatrics","Neonatology","Prevention","Analyze","Author 14",2025-01-20,"Approved",33,4,FALSE,0,0,NA,NA
+"IT00017","Surgery","Perioperative Care","Clinical Reasoning","Remember","Author 13",2025-01-20,"Approved",73,5,FALSE,1,1,0.67,0.34
+"IT00018","Internal Medicine","Nephrology","Clinical Reasoning","Understand","Author 10",2025-01-21,"Draft",32,5,FALSE,0,0,NA,NA
+"IT00019","Pediatrics","Immunization","Prevention","Remember","Author 10",2025-01-21,"Approved",8,4,FALSE,2,1,0.57,0.34
+"IT00020","Internal Medicine","Pulmonology","Diagnosis","Remember","Author 11",2025-01-22,"Approved",8,5,FALSE,1,1,0.39,-0.01
+"IT00021","Pediatrics","Pediatric Infections","Diagnosis","Remember","Author 04",2025-01-23,"Approved",31,5,TRUE,1,1,0.76,0.24
+"IT00022","Pediatrics","Neonatology","Clinical Reasoning","Remember","Author 15",2025-01-23,"Approved",79,5,FALSE,3,2,0.63,0.18
+"IT00023","Internal Medicine","Cardiology","Clinical Reasoning","Analyze","Author 10",2025-01-23,"Retired",70,5,FALSE,0,0,NA,NA
+"IT00024","Internal Medicine","Infectious Diseases","Clinical Reasoning","Understand","Author 04",2025-01-24,"Approved",31,5,FALSE,1,3,0.5,0.46
+"IT00025","Pediatrics","Pediatric Infections","Diagnosis","Understand","Author 17",2025-01-24,"Returned",57,5,FALSE,0,0,NA,NA
+"IT00026","Internal Medicine","Nephrology","Clinical Reasoning","Understand","Author 17",2025-01-25,"Approved",34,5,FALSE,1,1,0.43,0.18
+"IT00027","Pediatrics","Pediatric Infections","Prevention","Remember","Author 07",2025-01-26,"Approved",28,4,FALSE,2,3,0.58,0.46
+"IT00028","Internal Medicine","Endocrinology","Prevention","Analyze","Author 15",2025-01-27,"Approved",83,5,FALSE,0,1,0.75,0.41
+"IT00029","Internal Medicine","Pulmonology","Clinical Reasoning","Remember","Author 07",2025-01-27,"Approved",26,5,FALSE,1,0,NA,NA
+"IT00030","Surgery","Trauma","Management","Remember","Author 18",2025-01-27,"Approved",39,4,FALSE,0,1,0.61,0.19
+"IT00031","Public Health","Epidemiology","Prevention","Remember","Author 06",2025-01-28,"Approved",46,5,TRUE,1,0,NA,NA
+"IT00032","Internal Medicine","Cardiology","Prevention","Evaluate","Author 06",2025-01-28,"Approved",44,5,FALSE,0,1,0.4,0.56
+"IT00033","Obstetrics & Gynecology","Family Planning","Diagnosis","Apply","Author 13",2025-01-28,"Under review",76,5,FALSE,0,0,NA,NA
+"IT00034","Internal Medicine","Infectious Diseases","Diagnosis","Apply","Author 06",2025-01-28,"Approved",64,5,FALSE,0,1,0.88,0.4
+"IT00035","Surgery","Perioperative Care","Management","Understand","Author 08",2025-01-28,"Approved",48,5,FALSE,1,1,0.77,0.14
+"IT00036","Pediatrics","Neonatology","Clinical Reasoning","Apply","Author 12",2025-01-29,"Approved",83,5,FALSE,0,1,0.58,0.49
+"IT00037","Internal Medicine","Pulmonology","Clinical Reasoning","Apply","Author 01",2025-01-30,"Approved",51,4,FALSE,0,1,0.38,0.24
+"IT00038","Pediatrics","Growth & Development","Clinical Reasoning","Understand","Author 04",2025-01-30,"Under review",44,5,FALSE,0,0,NA,NA
+"IT00039","Obstetrics & Gynecology","Prenatal Care","Prevention","Remember","Author 04",2025-01-31,"Approved",8,5,FALSE,0,4,0.75,0.18
+"IT00040","Pediatrics","Immunization","Clinical Reasoning","Apply","Author 04",2025-01-31,"Approved",108,5,FALSE,0,2,0.63,0.08
+"IT00041","Pediatrics","Growth & Development","Management","Remember","Author 15",2025-02-01,"Approved",8,4,FALSE,0,0,NA,NA
+"IT00042","Public Health","Health Policy","Management","Analyze","Author 03",2025-02-02,"Returned",129,5,FALSE,0,0,NA,NA
+"IT00043","Pediatrics","Immunization","Clinical Reasoning","Remember","Author 03",2025-02-02,"Approved",20,4,FALSE,1,0,NA,NA
+"IT00044","Pediatrics","Growth & Development","Clinical Reasoning","Remember","Author 16",2025-02-02,"Approved",24,5,FALSE,1,2,0.86,0.27
+"IT00045","Internal Medicine","Nephrology","Diagnosis","Remember","Author 04",2025-02-03,"Approved",8,4,FALSE,3,1,0.78,0.51
+"IT00046","Internal Medicine","Infectious Diseases","Clinical Reasoning","Remember","Author 12",2025-02-03,"Approved",8,5,FALSE,2,2,0.91,0.21
+"IT00047","Public Health","Preventive Medicine","Prevention","Analyze","Author 03",2025-02-04,"Approved",90,5,FALSE,1,0,NA,NA
+"IT00048","Internal Medicine","Endocrinology","Management","Remember","Author 13",2025-02-04,"Approved",8,5,FALSE,1,3,0.47,0.4
+"IT00049","Surgery","Acute Abdomen","Clinical Reasoning","Remember","Author 17",2025-02-04,"Approved",53,5,FALSE,1,3,0.4,0.41
+"IT00050","Internal Medicine","Infectious Diseases","Clinical Reasoning","Remember","Author 13",2025-02-04,"Approved",8,5,FALSE,1,1,0.16,0.31
+"IT00051","Public Health","Health Policy","Clinical Reasoning","Remember","Author 07",2025-02-05,"Approved",17,5,FALSE,1,2,0.64,0.3
+"IT00052","Surgery","Acute Abdomen","Clinical Reasoning","Remember","Author 01",2025-02-05,"Approved",49,4,FALSE,0,0,NA,NA
+"IT00053","Public Health","Epidemiology","Management","Analyze","Author 15",2025-02-06,"Returned",79,4,FALSE,0,0,NA,NA
+"IT00054","Public Health","Primary Care","Clinical Reasoning","Analyze","Author 15",2025-02-06,"Approved",100,4,FALSE,1,2,0.66,0.29
+"IT00055","Surgery","Perioperative Care","Clinical Reasoning","Understand","Author 17",2025-02-07,"Approved",39,5,FALSE,0,3,0.27,0.14
+"IT00056","Obstetrics & Gynecology","Labor & Delivery","Management","Understand","Author 02",2025-02-07,"Approved",34,5,TRUE,0,2,0.79,0.38
+"IT00057","Obstetrics & Gynecology","Gynecologic Oncology","Management","Remember","Author 11",2025-02-07,"Approved",80,4,FALSE,0,1,0.83,0.24
+"IT00058","Internal Medicine","Pulmonology","Clinical Reasoning","Analyze","Author 08",2025-02-08,"Approved",58,5,TRUE,1,2,0.77,0.13
+"IT00059","Public Health","Epidemiology","Diagnosis","Apply","Author 09",2025-02-09,"Returned",81,5,FALSE,0,0,NA,NA
+"IT00060","Internal Medicine","Infectious Diseases","Management","Apply","Author 16",2025-02-10,"Approved",64,5,FALSE,0,0,NA,NA
+"IT00061","Internal Medicine","Infectious Diseases","Management","Remember","Author 10",2025-02-11,"Approved",13,5,FALSE,2,0,NA,NA
+"IT00062","Public Health","Health Policy","Prevention","Remember","Author 18",2025-02-11,"Approved",27,5,FALSE,3,3,0.66,0.49
+"IT00063","Surgery","Vascular Surgery","Management","Analyze","Author 06",2025-02-12,"Approved",61,4,FALSE,2,0,NA,NA
+"IT00064","Pediatrics","Pediatric Infections","Management","Apply","Author 06",2025-02-12,"Retired",103,5,TRUE,0,0,NA,NA
+"IT00065","Pediatrics","Growth & Development","Management","Evaluate","Author 12",2025-02-12,"Approved",105,5,FALSE,0,4,0.8,0.22
+"IT00066","Internal Medicine","Cardiology","Clinical Reasoning","Analyze","Author 09",2025-02-13,"Approved",95,5,TRUE,0,1,0.43,0.4
+"IT00067","Surgery","Acute Abdomen","Clinical Reasoning","Apply","Author 15",2025-02-13,"Approved",36,5,FALSE,0,3,0.85,0.2
+"IT00068","Pediatrics","Pediatric Infections","Prevention","Remember","Author 14",2025-02-15,"Approved",22,5,FALSE,0,0,NA,NA
+"IT00069","Surgery","Trauma","Management","Analyze","Author 09",2025-02-15,"Approved",94,5,FALSE,0,2,0.4,0.4
+"IT00070","Surgery","Vascular Surgery","Diagnosis","Apply","Author 06",2025-02-15,"Under review",79,5,FALSE,0,0,NA,NA
+"IT00071","Public Health","Health Policy","Diagnosis","Analyze","Author 08",2025-02-15,"Approved",119,5,FALSE,1,4,0.8,0.26
+"IT00072","Pediatrics","Pediatric Infections","Diagnosis","Apply","Author 14",2025-02-16,"Returned",74,5,FALSE,1,0,NA,NA
+"IT00073","Obstetrics & Gynecology","Family Planning","Management","Apply","Author 14",2025-02-16,"Approved",80,5,FALSE,0,2,0.44,0.01
+"IT00074","Public Health","Preventive Medicine","Prevention","Apply","Author 09",2025-02-16,"Approved",90,5,FALSE,0,2,0.95,0.23
+"IT00075","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 17",2025-02-17,"Approved",45,5,FALSE,0,5,0.29,0.23
+"IT00076","Surgery","Acute Abdomen","Management","Apply","Author 04",2025-02-17,"Under review",94,5,FALSE,0,0,NA,NA
+"IT00077","Obstetrics & Gynecology","Prenatal Care","Prevention","Apply","Author 08",2025-02-18,"Returned",71,5,FALSE,0,0,NA,NA
+"IT00078","Surgery","Perioperative Care","Management","Apply","Author 12",2025-02-18,"Approved",119,5,FALSE,0,0,NA,NA
+"IT00079","Internal Medicine","Pulmonology","Clinical Reasoning","Remember","Author 17",2025-02-19,"Approved",45,5,FALSE,0,0,NA,NA
+"IT00080","Public Health","Epidemiology","Prevention","Apply","Author 09",2025-02-21,"Approved",93,5,TRUE,1,2,0.69,0.29
+"IT00081","Internal Medicine","Infectious Diseases","Prevention","Understand","Author 16",2025-02-21,"Approved",9,5,FALSE,1,1,0.63,0.22
+"IT00082","Public Health","Epidemiology","Clinical Reasoning","Understand","Author 03",2025-02-21,"Approved",10,5,TRUE,0,2,0.65,0.19
+"IT00083","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Apply","Author 09",2025-02-22,"Retired",67,5,FALSE,1,0,NA,NA
+"IT00084","Public Health","Health Policy","Management","Remember","Author 07",2025-02-23,"Approved",18,5,FALSE,0,1,0.83,0.22
+"IT00085","Internal Medicine","Cardiology","Diagnosis","Understand","Author 04",2025-02-23,"Under review",56,4,FALSE,0,0,NA,NA
+"IT00086","Public Health","Primary Care","Prevention","Analyze","Author 08",2025-02-24,"Approved",106,5,FALSE,2,2,0.35,0.01
+"IT00087","Surgery","Acute Abdomen","Management","Apply","Author 14",2025-02-24,"Approved",104,4,FALSE,1,5,0.86,0.24
+"IT00088","Public Health","Epidemiology","Diagnosis","Understand","Author 05",2025-02-24,"Approved",32,5,FALSE,0,1,0.39,0.41
+"IT00089","Internal Medicine","Pulmonology","Prevention","Remember","Author 03",2025-02-25,"Approved",16,5,FALSE,2,1,0.41,0.21
+"IT00090","Internal Medicine","Pulmonology","Clinical Reasoning","Understand","Author 16",2025-02-27,"Approved",8,5,FALSE,1,0,NA,NA
+"IT00091","Public Health","Epidemiology","Clinical Reasoning","Understand","Author 07",2025-02-27,"Approved",8,5,FALSE,0,0,NA,NA
+"IT00092","Obstetrics & Gynecology","Prenatal Care","Prevention","Remember","Author 09",2025-02-28,"Approved",72,5,FALSE,0,0,NA,NA
+"IT00093","Obstetrics & Gynecology","Gynecologic Oncology","Prevention","Understand","Author 13",2025-02-28,"Draft",14,4,TRUE,0,0,NA,NA
+"IT00094","Internal Medicine","Endocrinology","Clinical Reasoning","Apply","Author 09",2025-02-28,"Approved",60,5,FALSE,1,3,0.72,0.14
+"IT00095","Pediatrics","Neonatology","Management","Remember","Author 17",2025-02-28,"Approved",20,4,FALSE,1,1,0.43,0.44
+"IT00096","Pediatrics","Pediatric Infections","Diagnosis","Remember","Author 12",2025-02-28,"Approved",10,5,FALSE,1,1,0.71,0.22
+"IT00097","Obstetrics & Gynecology","Labor & Delivery","Management","Remember","Author 12",2025-03-01,"Approved",14,5,FALSE,0,2,0.41,0.19
+"IT00098","Pediatrics","Neonatology","Prevention","Understand","Author 04",2025-03-01,"Approved",79,5,FALSE,0,2,0.62,0.35
+"IT00099","Surgery","Vascular Surgery","Diagnosis","Apply","Author 04",2025-03-01,"Draft",66,5,TRUE,1,0,NA,NA
+"IT00100","Pediatrics","Neonatology","Diagnosis","Analyze","Author 17",2025-03-02,"Approved",72,5,FALSE,1,0,NA,NA
+"IT00101","Internal Medicine","Endocrinology","Diagnosis","Apply","Author 02",2025-03-03,"Approved",82,4,FALSE,0,0,NA,NA
+"IT00102","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Understand","Author 09",2025-03-04,"Approved",84,4,FALSE,0,0,NA,NA
+"IT00103","Pediatrics","Pediatric Infections","Prevention","Remember","Author 06",2025-03-05,"Under review",24,5,FALSE,0,0,NA,NA
+"IT00104","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 05",2025-03-05,"Approved",41,5,TRUE,0,1,0.82,0.41
+"IT00105","Internal Medicine","Pulmonology","Prevention","Analyze","Author 11",2025-03-07,"Approved",93,4,FALSE,1,4,0.53,0.24
+"IT00106","Internal Medicine","Nephrology","Management","Remember","Author 14",2025-03-07,"Draft",27,4,FALSE,0,0,NA,NA
+"IT00107","Surgery","Vascular Surgery","Diagnosis","Remember","Author 10",2025-03-07,"Approved",8,5,FALSE,1,1,0.73,0.31
+"IT00108","Surgery","Vascular Surgery","Management","Remember","Author 06",2025-03-08,"Approved",69,5,FALSE,0,0,NA,NA
+"IT00109","Internal Medicine","Endocrinology","Management","Remember","Author 14",2025-03-08,"Approved",30,5,FALSE,0,3,0.76,0.24
+"IT00110","Surgery","Acute Abdomen","Diagnosis","Understand","Author 02",2025-03-08,"Approved",46,5,FALSE,0,1,0.64,0.31
+"IT00111","Pediatrics","Pediatric Infections","Prevention","Apply","Author 15",2025-03-08,"Approved",66,5,FALSE,0,2,0.41,0.51
+"IT00112","Public Health","Epidemiology","Clinical Reasoning","Remember","Author 09",2025-03-09,"Approved",49,5,FALSE,0,1,0.57,0.21
+"IT00113","Internal Medicine","Infectious Diseases","Prevention","Apply","Author 08",2025-03-09,"Approved",106,5,FALSE,0,1,0.82,0.49
+"IT00114","Pediatrics","Neonatology","Prevention","Analyze","Author 04",2025-03-09,"Approved",122,5,FALSE,0,1,0.76,0.19
+"IT00115","Internal Medicine","Pulmonology","Prevention","Remember","Author 12",2025-03-09,"Approved",12,5,TRUE,1,3,0.32,0.38
+"IT00116","Internal Medicine","Pulmonology","Prevention","Apply","Author 09",2025-03-10,"Approved",90,5,FALSE,0,0,NA,NA
+"IT00117","Surgery","Acute Abdomen","Clinical Reasoning","Analyze","Author 12",2025-03-11,"Approved",79,5,FALSE,1,2,0.39,0.2
+"IT00118","Internal Medicine","Nephrology","Prevention","Remember","Author 17",2025-03-11,"Approved",25,5,TRUE,1,2,0.46,0.17
+"IT00119","Internal Medicine","Pulmonology","Management","Apply","Author 10",2025-03-12,"Approved",61,4,FALSE,1,3,0.68,0.45
+"IT00120","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Remember","Author 17",2025-03-13,"Approved",49,5,FALSE,1,2,0.81,0.33
+"IT00121","Pediatrics","Growth & Development","Prevention","Remember","Author 03",2025-03-13,"Approved",45,5,FALSE,0,2,0.79,0.55
+"IT00122","Internal Medicine","Pulmonology","Diagnosis","Remember","Author 15",2025-03-13,"Approved",82,4,TRUE,0,1,0.77,0.4
+"IT00123","Surgery","Acute Abdomen","Diagnosis","Remember","Author 13",2025-03-14,"Returned",8,5,FALSE,0,0,NA,NA
+"IT00124","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Apply","Author 09",2025-03-14,"Approved",134,5,TRUE,2,1,0.56,0.29
+"IT00125","Pediatrics","Immunization","Diagnosis","Remember","Author 13",2025-03-16,"Approved",20,5,FALSE,0,1,0.8,0.7
+"IT00126","Internal Medicine","Pulmonology","Management","Remember","Author 07",2025-03-16,"Approved",63,5,FALSE,0,0,NA,NA
+"IT00127","Pediatrics","Neonatology","Prevention","Understand","Author 16",2025-03-16,"Approved",39,5,FALSE,2,3,0.33,0.34
+"IT00128","Pediatrics","Growth & Development","Prevention","Remember","Author 15",2025-03-17,"Approved",48,5,FALSE,0,3,0.39,0.47
+"IT00129","Internal Medicine","Infectious Diseases","Management","Remember","Author 17",2025-03-17,"Draft",41,4,FALSE,1,0,NA,NA
+"IT00130","Pediatrics","Neonatology","Prevention","Analyze","Author 07",2025-03-17,"Approved",116,5,FALSE,1,1,0.4,0.37
+"IT00131","Pediatrics","Neonatology","Clinical Reasoning","Apply","Author 06",2025-03-17,"Approved",69,5,FALSE,1,1,0.5,0.15
+"IT00132","Surgery","Acute Abdomen","Prevention","Remember","Author 18",2025-03-18,"Approved",53,5,FALSE,0,1,0.64,0.21
+"IT00133","Internal Medicine","Endocrinology","Clinical Reasoning","Remember","Author 03",2025-03-18,"Approved",8,5,FALSE,1,2,0.64,0.38
+"IT00134","Internal Medicine","Infectious Diseases","Clinical Reasoning","Remember","Author 10",2025-03-18,"Approved",13,5,FALSE,1,0,NA,NA
+"IT00135","Public Health","Epidemiology","Management","Apply","Author 02",2025-03-19,"Under review",99,4,FALSE,1,0,NA,NA
+"IT00136","Internal Medicine","Cardiology","Management","Remember","Author 18",2025-03-19,"Approved",43,5,FALSE,1,2,0.45,0.34
+"IT00137","Internal Medicine","Pulmonology","Prevention","Apply","Author 03",2025-03-20,"Approved",79,5,TRUE,0,2,0.58,0.36
+"IT00138","Surgery","Perioperative Care","Prevention","Apply","Author 18",2025-03-21,"Approved",82,4,TRUE,0,2,0.51,0.15
+"IT00139","Surgery","Vascular Surgery","Diagnosis","Analyze","Author 18",2025-03-22,"Approved",90,4,FALSE,0,0,NA,NA
+"IT00140","Pediatrics","Pediatric Infections","Prevention","Understand","Author 12",2025-03-22,"Approved",57,5,FALSE,0,3,0.7,0.17
+"IT00141","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Apply","Author 17",2025-03-22,"Approved",40,5,FALSE,1,1,0.69,0.15
+"IT00142","Internal Medicine","Infectious Diseases","Management","Evaluate","Author 11",2025-03-23,"Under review",90,5,FALSE,1,0,NA,NA
+"IT00143","Surgery","Trauma","Diagnosis","Understand","Author 03",2025-03-23,"Approved",8,4,FALSE,0,1,0.44,0.25
+"IT00144","Surgery","Trauma","Diagnosis","Remember","Author 01",2025-03-24,"Returned",69,5,FALSE,1,0,NA,NA
+"IT00145","Public Health","Preventive Medicine","Clinical Reasoning","Remember","Author 02",2025-03-25,"Approved",57,4,FALSE,3,0,NA,NA
+"IT00146","Internal Medicine","Nephrology","Prevention","Understand","Author 16",2025-03-26,"Approved",27,5,FALSE,0,4,0.76,0.28
+"IT00147","Internal Medicine","Cardiology","Management","Understand","Author 10",2025-03-26,"Approved",64,4,FALSE,0,1,0.87,0.27
+"IT00148","Surgery","Acute Abdomen","Management","Understand","Author 02",2025-03-27,"Approved",23,5,FALSE,2,1,0.2,0.05
+"IT00149","Surgery","Trauma","Prevention","Apply","Author 01",2025-03-28,"Approved",29,5,FALSE,1,0,NA,NA
+"IT00150","Internal Medicine","Infectious Diseases","Prevention","Apply","Author 01",2025-03-29,"Returned",49,5,FALSE,0,0,NA,NA
+"IT00151","Internal Medicine","Endocrinology","Prevention","Analyze","Author 04",2025-03-29,"Approved",83,5,FALSE,0,2,0.8,0.34
+"IT00152","Internal Medicine","Nephrology","Clinical Reasoning","Understand","Author 10",2025-03-30,"Approved",12,5,FALSE,2,1,0.6,0.22
+"IT00153","Public Health","Epidemiology","Clinical Reasoning","Remember","Author 04",2025-03-30,"Approved",41,5,FALSE,1,1,0.64,0.23
+"IT00154","Surgery","Trauma","Clinical Reasoning","Apply","Author 18",2025-03-31,"Approved",129,5,FALSE,1,1,0.71,0.09
+"IT00155","Obstetrics & Gynecology","Labor & Delivery","Diagnosis","Understand","Author 11",2025-03-31,"Under review",27,5,FALSE,0,0,NA,NA
+"IT00156","Obstetrics & Gynecology","Gynecologic Oncology","Management","Analyze","Author 16",2025-04-02,"Approved",86,5,FALSE,0,3,0.59,0.51
+"IT00157","Pediatrics","Neonatology","Diagnosis","Apply","Author 18",2025-04-02,"Draft",109,5,FALSE,0,0,NA,NA
+"IT00158","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Analyze","Author 04",2025-04-02,"Approved",131,5,FALSE,0,2,0.31,0.29
+"IT00159","Obstetrics & Gynecology","Family Planning","Prevention","Apply","Author 03",2025-04-02,"Approved",23,5,FALSE,0,1,0.66,0.28
+"IT00160","Internal Medicine","Endocrinology","Prevention","Apply","Author 05",2025-04-03,"Approved",106,5,FALSE,0,2,0.63,0.35
+"IT00161","Internal Medicine","Pulmonology","Prevention","Apply","Author 04",2025-04-04,"Approved",66,5,FALSE,0,1,0.72,0.38
+"IT00162","Surgery","Vascular Surgery","Diagnosis","Remember","Author 14",2025-04-04,"Retired",34,5,FALSE,2,0,NA,NA
+"IT00163","Public Health","Primary Care","Diagnosis","Understand","Author 13",2025-04-04,"Under review",8,5,FALSE,1,0,NA,NA
+"IT00164","Internal Medicine","Endocrinology","Prevention","Analyze","Author 18",2025-04-05,"Approved",68,5,FALSE,0,3,0.79,0.28
+"IT00165","Internal Medicine","Infectious Diseases","Management","Remember","Author 05",2025-04-05,"Approved",66,5,FALSE,2,2,0.53,0.48
+"IT00166","Pediatrics","Neonatology","Management","Understand","Author 05",2025-04-06,"Returned",53,5,FALSE,1,0,NA,NA
+"IT00167","Internal Medicine","Nephrology","Diagnosis","Understand","Author 10",2025-04-07,"Approved",9,5,FALSE,0,0,NA,NA
+"IT00168","Pediatrics","Pediatric Infections","Prevention","Apply","Author 17",2025-04-07,"Approved",89,5,FALSE,0,4,0.36,0.37
+"IT00169","Pediatrics","Pediatric Infections","Prevention","Understand","Author 04",2025-04-07,"Approved",25,5,FALSE,0,1,0.5,0.2
+"IT00170","Internal Medicine","Infectious Diseases","Clinical Reasoning","Understand","Author 18",2025-04-07,"Approved",8,5,FALSE,0,1,0.6,0.57
+"IT00171","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Apply","Author 17",2025-04-08,"Approved",67,4,FALSE,0,2,0.94,0.23
+"IT00172","Obstetrics & Gynecology","Prenatal Care","Prevention","Remember","Author 02",2025-04-08,"Approved",69,5,FALSE,0,2,0.56,0.24
+"IT00173","Pediatrics","Immunization","Management","Apply","Author 09",2025-04-08,"Approved",73,5,FALSE,0,1,0.62,0.24
+"IT00174","Obstetrics & Gynecology","Prenatal Care","Management","Apply","Author 10",2025-04-08,"Approved",56,5,FALSE,0,0,NA,NA
+"IT00175","Internal Medicine","Pulmonology","Diagnosis","Evaluate","Author 08",2025-04-08,"Approved",102,4,FALSE,0,4,0.79,0.27
+"IT00176","Surgery","Perioperative Care","Diagnosis","Remember","Author 02",2025-04-09,"Approved",33,5,FALSE,0,1,0.59,0.43
+"IT00177","Public Health","Primary Care","Prevention","Remember","Author 04",2025-04-09,"Retired",15,4,FALSE,1,0,NA,NA
+"IT00178","Public Health","Primary Care","Diagnosis","Remember","Author 12",2025-04-09,"Approved",38,5,FALSE,1,2,0.25,0.37
+"IT00179","Public Health","Preventive Medicine","Clinical Reasoning","Apply","Author 17",2025-04-10,"Approved",13,5,FALSE,0,1,0.81,0.35
+"IT00180","Surgery","Trauma","Clinical Reasoning","Apply","Author 08",2025-04-10,"Under review",102,5,FALSE,3,0,NA,NA
+"IT00181","Internal Medicine","Nephrology","Diagnosis","Understand","Author 01",2025-04-10,"Approved",12,5,FALSE,0,0,NA,NA
+"IT00182","Internal Medicine","Nephrology","Prevention","Analyze","Author 02",2025-04-10,"Returned",104,5,FALSE,0,0,NA,NA
+"IT00183","Public Health","Primary Care","Clinical Reasoning","Apply","Author 16",2025-04-11,"Approved",127,4,FALSE,0,5,0.59,0.15
+"IT00184","Surgery","Vascular Surgery","Management","Remember","Author 04",2025-04-12,"Draft",50,5,FALSE,0,0,NA,NA
+"IT00185","Pediatrics","Growth & Development","Management","Analyze","Author 12",2025-04-12,"Approved",84,4,FALSE,0,0,NA,NA
+"IT00186","Internal Medicine","Cardiology","Diagnosis","Understand","Author 01",2025-04-13,"Approved",8,5,FALSE,1,1,0.74,0.36
+"IT00187","Obstetrics & Gynecology","Gynecologic Oncology","Prevention","Understand","Author 02",2025-04-13,"Approved",8,5,FALSE,0,1,0.63,0.28
+"IT00188","Internal Medicine","Pulmonology","Prevention","Apply","Author 06",2025-04-13,"Approved",82,5,FALSE,0,1,0.63,0.22
+"IT00189","Internal Medicine","Pulmonology","Diagnosis","Understand","Author 17",2025-04-13,"Approved",8,5,FALSE,2,1,0.28,0.39
+"IT00190","Pediatrics","Growth & Development","Diagnosis","Analyze","Author 11",2025-04-13,"Approved",74,5,FALSE,0,1,0.54,0.09
+"IT00191","Pediatrics","Pediatric Infections","Diagnosis","Understand","Author 16",2025-04-15,"Under review",8,4,FALSE,0,0,NA,NA
+"IT00192","Internal Medicine","Endocrinology","Clinical Reasoning","Apply","Author 11",2025-04-15,"Under review",125,5,TRUE,2,0,NA,NA
+"IT00193","Internal Medicine","Endocrinology","Prevention","Remember","Author 07",2025-04-16,"Returned",21,5,FALSE,0,0,NA,NA
+"IT00194","Public Health","Preventive Medicine","Prevention","Apply","Author 17",2025-04-18,"Approved",90,4,FALSE,0,1,0.8,0.06
+"IT00195","Pediatrics","Growth & Development","Clinical Reasoning","Apply","Author 18",2025-04-18,"Under review",89,4,FALSE,0,0,NA,NA
+"IT00196","Pediatrics","Neonatology","Clinical Reasoning","Remember","Author 16",2025-04-19,"Under review",38,5,FALSE,2,0,NA,NA
+"IT00197","Internal Medicine","Cardiology","Diagnosis","Understand","Author 02",2025-04-19,"Approved",8,4,FALSE,0,0,NA,NA
+"IT00198","Surgery","Trauma","Diagnosis","Remember","Author 07",2025-04-19,"Approved",39,5,FALSE,0,3,0.26,0.21
+"IT00199","Surgery","Trauma","Diagnosis","Analyze","Author 01",2025-04-20,"Approved",101,4,FALSE,0,1,0.35,0.51
+"IT00200","Internal Medicine","Nephrology","Clinical Reasoning","Remember","Author 10",2025-04-21,"Approved",12,5,FALSE,1,1,0.27,0.4
+"IT00201","Public Health","Preventive Medicine","Prevention","Remember","Author 02",2025-04-21,"Approved",103,5,FALSE,0,2,0.67,0.25
+"IT00202","Surgery","Trauma","Diagnosis","Remember","Author 10",2025-04-21,"Approved",29,5,TRUE,2,0,NA,NA
+"IT00203","Pediatrics","Neonatology","Clinical Reasoning","Remember","Author 16",2025-04-22,"Approved",26,5,FALSE,0,3,0.79,0.41
+"IT00204","Public Health","Epidemiology","Clinical Reasoning","Remember","Author 16",2025-04-22,"Approved",16,5,FALSE,0,0,NA,NA
+"IT00205","Pediatrics","Immunization","Clinical Reasoning","Analyze","Author 08",2025-04-22,"Approved",118,5,TRUE,0,1,0.7,0.22
+"IT00206","Obstetrics & Gynecology","Family Planning","Management","Evaluate","Author 07",2025-04-22,"Approved",152,5,FALSE,0,0,NA,NA
+"IT00207","Internal Medicine","Endocrinology","Diagnosis","Analyze","Author 18",2025-04-23,"Approved",69,4,FALSE,1,3,0.69,0.36
+"IT00208","Public Health","Preventive Medicine","Management","Remember","Author 18",2025-04-26,"Approved",15,5,TRUE,1,1,0.63,0.25
+"IT00209","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Apply","Author 17",2025-04-26,"Approved",72,5,FALSE,1,2,0.29,0.1
+"IT00210","Surgery","Trauma","Clinical Reasoning","Analyze","Author 11",2025-04-27,"Approved",51,5,FALSE,0,2,0.32,0.2
+"IT00211","Obstetrics & Gynecology","Gynecologic Oncology","Management","Remember","Author 14",2025-04-29,"Approved",75,5,FALSE,0,4,0.95,0.37
+"IT00212","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 15",2025-04-29,"Approved",16,5,FALSE,0,0,NA,NA
+"IT00213","Internal Medicine","Nephrology","Management","Remember","Author 15",2025-04-29,"Approved",8,4,FALSE,1,2,0.69,0.06
+"IT00214","Internal Medicine","Nephrology","Management","Remember","Author 15",2025-04-30,"Under review",8,5,FALSE,0,0,NA,NA
+"IT00215","Public Health","Preventive Medicine","Clinical Reasoning","Analyze","Author 12",2025-05-02,"Approved",76,5,FALSE,0,2,0.75,0.24
+"IT00216","Surgery","Acute Abdomen","Prevention","Apply","Author 15",2025-05-02,"Approved",49,5,FALSE,0,2,0.54,0.28
+"IT00217","Internal Medicine","Infectious Diseases","Management","Remember","Author 17",2025-05-03,"Approved",42,4,FALSE,1,2,0.45,0.28
+"IT00218","Internal Medicine","Nephrology","Clinical Reasoning","Apply","Author 09",2025-05-04,"Returned",65,5,FALSE,1,0,NA,NA
+"IT00219","Internal Medicine","Endocrinology","Management","Apply","Author 18",2025-05-04,"Approved",109,5,FALSE,0,0,NA,NA
+"IT00220","Pediatrics","Neonatology","Prevention","Understand","Author 15",2025-05-05,"Approved",58,5,FALSE,0,3,0.31,0.13
+"IT00221","Internal Medicine","Nephrology","Management","Understand","Author 11",2025-05-05,"Under review",40,5,FALSE,1,0,NA,NA
+"IT00222","Surgery","Trauma","Diagnosis","Remember","Author 17",2025-05-05,"Approved",43,5,FALSE,5,0,NA,NA
+"IT00223","Internal Medicine","Endocrinology","Clinical Reasoning","Apply","Author 04",2025-05-07,"Approved",91,5,FALSE,0,2,0.69,0.47
+"IT00224","Obstetrics & Gynecology","Prenatal Care","Management","Remember","Author 18",2025-05-09,"Returned",27,5,FALSE,1,0,NA,NA
+"IT00225","Pediatrics","Immunization","Management","Apply","Author 08",2025-05-09,"Retired",75,5,FALSE,0,0,NA,NA
+"IT00226","Public Health","Primary Care","Clinical Reasoning","Apply","Author 11",2025-05-09,"Approved",93,4,FALSE,0,3,0.65,0.3
+"IT00227","Obstetrics & Gynecology","Gynecologic Oncology","Clinical Reasoning","Analyze","Author 07",2025-05-09,"Approved",69,5,FALSE,0,2,0.77,0.52
+"IT00228","Internal Medicine","Pulmonology","Management","Understand","Author 03",2025-05-10,"Approved",26,5,FALSE,0,0,NA,NA
+"IT00229","Internal Medicine","Infectious Diseases","Clinical Reasoning","Apply","Author 06",2025-05-10,"Draft",74,4,FALSE,0,0,NA,NA
+"IT00230","Internal Medicine","Infectious Diseases","Clinical Reasoning","Analyze","Author 09",2025-05-11,"Approved",79,5,TRUE,2,0,NA,NA
+"IT00231","Pediatrics","Immunization","Diagnosis","Understand","Author 08",2025-05-12,"Approved",8,5,FALSE,1,1,0.26,0.4
+"IT00232","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 10",2025-05-12,"Approved",40,5,FALSE,0,2,0.46,0.25
+"IT00233","Pediatrics","Immunization","Diagnosis","Apply","Author 16",2025-05-12,"Approved",102,5,FALSE,1,4,0.58,0.25
+"IT00234","Pediatrics","Immunization","Prevention","Apply","Author 06",2025-05-13,"Approved",108,5,FALSE,2,1,0.7,0.21
+"IT00235","Public Health","Health Policy","Management","Understand","Author 09",2025-05-13,"Approved",8,4,TRUE,0,6,0.2,0.31
+"IT00236","Obstetrics & Gynecology","Labor & Delivery","Prevention","Apply","Author 12",2025-05-14,"Approved",62,5,FALSE,0,0,NA,NA
+"IT00237","Public Health","Preventive Medicine","Diagnosis","Apply","Author 06",2025-05-15,"Approved",118,5,FALSE,1,2,0.38,0.38
+"IT00238","Internal Medicine","Nephrology","Diagnosis","Analyze","Author 10",2025-05-16,"Under review",134,5,FALSE,0,0,NA,NA
+"IT00239","Internal Medicine","Infectious Diseases","Clinical Reasoning","Understand","Author 13",2025-05-17,"Approved",19,5,FALSE,1,0,NA,NA
+"IT00240","Public Health","Primary Care","Prevention","Understand","Author 11",2025-05-17,"Approved",36,5,FALSE,0,2,0.51,0.33
+"IT00241","Public Health","Primary Care","Prevention","Apply","Author 08",2025-05-18,"Approved",66,5,FALSE,0,3,0.88,0.35
+"IT00242","Surgery","Vascular Surgery","Prevention","Apply","Author 05",2025-05-19,"Approved",31,5,FALSE,1,0,NA,NA
+"IT00243","Public Health","Preventive Medicine","Prevention","Evaluate","Author 10",2025-05-20,"Approved",99,4,FALSE,0,4,0.84,0.3
+"IT00244","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Understand","Author 12",2025-05-20,"Approved",12,5,FALSE,1,0,NA,NA
+"IT00245","Surgery","Trauma","Management","Evaluate","Author 01",2025-05-20,"Approved",96,5,TRUE,0,2,0.58,0.21
+"IT00246","Surgery","Perioperative Care","Clinical Reasoning","Remember","Author 06",2025-05-21,"Approved",69,5,FALSE,1,2,0.38,0.45
+"IT00247","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Remember","Author 13",2025-05-22,"Approved",22,5,FALSE,1,4,0.22,0.32
+"IT00248","Pediatrics","Pediatric Infections","Management","Remember","Author 18",2025-05-22,"Retired",69,5,FALSE,2,0,NA,NA
+"IT00249","Internal Medicine","Endocrinology","Prevention","Remember","Author 04",2025-05-22,"Approved",22,5,FALSE,1,3,0.54,0.32
+"IT00250","Internal Medicine","Infectious Diseases","Diagnosis","Apply","Author 11",2025-05-22,"Approved",127,5,FALSE,0,0,NA,NA
+"IT00251","Obstetrics & Gynecology","Labor & Delivery","Management","Remember","Author 14",2025-05-22,"Retired",56,4,FALSE,0,0,NA,NA
+"IT00252","Pediatrics","Growth & Development","Prevention","Understand","Author 18",2025-05-23,"Returned",38,4,TRUE,1,0,NA,NA
+"IT00253","Internal Medicine","Endocrinology","Clinical Reasoning","Remember","Author 13",2025-05-23,"Approved",47,5,FALSE,0,2,0.61,0.35
+"IT00254","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Apply","Author 09",2025-05-23,"Approved",84,5,FALSE,0,4,0.58,0.27
+"IT00255","Pediatrics","Pediatric Infections","Diagnosis","Remember","Author 13",2025-05-24,"Approved",39,5,FALSE,2,2,0.66,0.5
+"IT00256","Internal Medicine","Cardiology","Prevention","Apply","Author 05",2025-05-24,"Approved",82,4,FALSE,0,4,0.62,0.3
+"IT00257","Obstetrics & Gynecology","Labor & Delivery","Diagnosis","Understand","Author 01",2025-05-24,"Returned",17,4,FALSE,0,0,NA,NA
+"IT00258","Public Health","Epidemiology","Clinical Reasoning","Understand","Author 11",2025-05-26,"Approved",74,4,FALSE,0,4,0.39,0.18
+"IT00259","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Remember","Author 12",2025-05-26,"Draft",8,5,FALSE,2,0,NA,NA
+"IT00260","Surgery","Acute Abdomen","Clinical Reasoning","Remember","Author 04",2025-05-26,"Approved",55,5,FALSE,0,0,NA,NA
+"IT00261","Pediatrics","Pediatric Infections","Prevention","Apply","Author 05",2025-05-28,"Approved",135,5,FALSE,0,1,0.7,0.36
+"IT00262","Surgery","Acute Abdomen","Management","Analyze","Author 03",2025-05-28,"Approved",46,5,FALSE,0,0,NA,NA
+"IT00263","Public Health","Health Policy","Diagnosis","Evaluate","Author 16",2025-05-30,"Approved",59,4,FALSE,1,1,0.85,0.33
+"IT00264","Internal Medicine","Infectious Diseases","Management","Apply","Author 07",2025-05-30,"Approved",56,5,FALSE,0,0,NA,NA
+"IT00265","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Understand","Author 14",2025-05-31,"Returned",35,5,FALSE,0,0,NA,NA
+"IT00266","Internal Medicine","Infectious Diseases","Management","Understand","Author 11",2025-05-31,"Approved",22,5,FALSE,0,1,0.54,0.27
+"IT00267","Pediatrics","Pediatric Infections","Clinical Reasoning","Remember","Author 11",2025-05-31,"Approved",57,5,FALSE,1,2,0.81,0.44
+"IT00268","Surgery","Acute Abdomen","Diagnosis","Apply","Author 08",2025-06-01,"Approved",115,5,TRUE,0,1,0.53,0.26
+"IT00269","Surgery","Acute Abdomen","Management","Remember","Author 13",2025-06-01,"Approved",77,5,FALSE,2,2,0.64,0.34
+"IT00270","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Understand","Author 16",2025-06-01,"Retired",24,5,TRUE,0,0,NA,NA
+"IT00271","Pediatrics","Pediatric Infections","Management","Remember","Author 16",2025-06-02,"Approved",33,5,FALSE,1,1,0.28,0.1
+"IT00272","Pediatrics","Growth & Development","Diagnosis","Understand","Author 12",2025-06-02,"Approved",34,5,FALSE,0,1,0.63,0.19
+"IT00273","Internal Medicine","Infectious Diseases","Management","Remember","Author 10",2025-06-02,"Approved",8,4,TRUE,0,2,0.8,0.28
+"IT00274","Internal Medicine","Endocrinology","Prevention","Remember","Author 11",2025-06-03,"Approved",8,4,FALSE,4,2,0.38,0.34
+"IT00275","Obstetrics & Gynecology","Labor & Delivery","Diagnosis","Analyze","Author 09",2025-06-04,"Approved",54,5,TRUE,0,2,0.68,0.33
+"IT00276","Surgery","Acute Abdomen","Diagnosis","Apply","Author 10",2025-06-04,"Approved",80,5,FALSE,2,0,NA,NA
+"IT00277","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Understand","Author 08",2025-06-05,"Approved",26,5,FALSE,0,1,0.59,0.17
+"IT00278","Obstetrics & Gynecology","Family Planning","Management","Apply","Author 01",2025-06-05,"Approved",88,5,FALSE,2,2,0.62,0.29
+"IT00279","Surgery","Acute Abdomen","Prevention","Remember","Author 18",2025-06-05,"Approved",29,5,TRUE,0,3,0.62,0.39
+"IT00280","Internal Medicine","Pulmonology","Clinical Reasoning","Remember","Author 15",2025-06-06,"Retired",8,5,FALSE,0,0,NA,NA
+"IT00281","Surgery","Trauma","Management","Understand","Author 18",2025-06-06,"Approved",8,4,FALSE,0,4,0.96,0.32
+"IT00282","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Analyze","Author 14",2025-06-06,"Approved",57,5,FALSE,2,0,NA,NA
+"IT00283","Surgery","Perioperative Care","Management","Understand","Author 01",2025-06-07,"Approved",52,5,FALSE,0,0,NA,NA
+"IT00284","Surgery","Perioperative Care","Prevention","Remember","Author 01",2025-06-07,"Approved",8,4,FALSE,2,1,0.76,0.3
+"IT00285","Obstetrics & Gynecology","Gynecologic Oncology","Management","Remember","Author 03",2025-06-07,"Approved",42,5,FALSE,1,0,NA,NA
+"IT00286","Surgery","Perioperative Care","Diagnosis","Remember","Author 14",2025-06-07,"Returned",21,5,FALSE,0,0,NA,NA
+"IT00287","Internal Medicine","Pulmonology","Diagnosis","Apply","Author 09",2025-06-08,"Approved",74,5,FALSE,0,2,0.35,0.34
+"IT00288","Internal Medicine","Cardiology","Prevention","Understand","Author 07",2025-06-08,"Returned",50,5,TRUE,0,0,NA,NA
+"IT00289","Public Health","Epidemiology","Prevention","Apply","Author 08",2025-06-09,"Returned",73,4,FALSE,0,0,NA,NA
+"IT00290","Obstetrics & Gynecology","Family Planning","Diagnosis","Understand","Author 08",2025-06-10,"Returned",51,5,FALSE,0,0,NA,NA
+"IT00291","Internal Medicine","Endocrinology","Prevention","Understand","Author 01",2025-06-10,"Approved",69,4,FALSE,1,1,0.56,0.23
+"IT00292","Public Health","Health Policy","Clinical Reasoning","Analyze","Author 14",2025-06-11,"Approved",114,4,FALSE,1,0,NA,NA
+"IT00293","Surgery","Acute Abdomen","Clinical Reasoning","Understand","Author 08",2025-06-11,"Draft",11,4,TRUE,1,0,NA,NA
+"IT00294","Public Health","Primary Care","Management","Analyze","Author 08",2025-06-11,"Approved",90,4,FALSE,1,1,0.93,0.61
+"IT00295","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Understand","Author 14",2025-06-11,"Approved",41,5,FALSE,0,3,0.46,0.27
+"IT00296","Surgery","Trauma","Clinical Reasoning","Apply","Author 10",2025-06-12,"Approved",54,5,FALSE,1,0,NA,NA
+"IT00297","Surgery","Trauma","Clinical Reasoning","Apply","Author 09",2025-06-12,"Approved",75,5,FALSE,0,0,NA,NA
+"IT00298","Surgery","Vascular Surgery","Clinical Reasoning","Remember","Author 15",2025-06-14,"Retired",59,5,FALSE,0,0,NA,NA
+"IT00299","Internal Medicine","Nephrology","Prevention","Evaluate","Author 17",2025-06-15,"Approved",104,5,FALSE,0,3,0.26,0.38
+"IT00300","Pediatrics","Growth & Development","Clinical Reasoning","Remember","Author 16",2025-06-16,"Approved",40,5,FALSE,0,1,0.5,0.18
+"IT00301","Surgery","Vascular Surgery","Management","Apply","Author 16",2025-06-16,"Returned",92,5,FALSE,0,0,NA,NA
+"IT00302","Surgery","Vascular Surgery","Management","Understand","Author 15",2025-06-16,"Approved",20,4,FALSE,1,0,NA,NA
+"IT00303","Surgery","Vascular Surgery","Management","Remember","Author 12",2025-06-16,"Approved",48,4,FALSE,0,1,0.64,0.06
+"IT00304","Pediatrics","Immunization","Management","Remember","Author 12",2025-06-16,"Approved",44,5,FALSE,0,1,0.66,0.54
+"IT00305","Obstetrics & Gynecology","Labor & Delivery","Diagnosis","Remember","Author 01",2025-06-17,"Retired",39,5,FALSE,0,0,NA,NA
+"IT00306","Internal Medicine","Pulmonology","Management","Remember","Author 18",2025-06-17,"Under review",66,5,FALSE,2,0,NA,NA
+"IT00307","Obstetrics & Gynecology","Family Planning","Diagnosis","Apply","Author 18",2025-06-19,"Approved",72,4,FALSE,0,3,0.53,0.17
+"IT00308","Internal Medicine","Cardiology","Diagnosis","Apply","Author 13",2025-06-19,"Approved",63,5,FALSE,1,1,0.5,0.09
+"IT00309","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Understand","Author 15",2025-06-19,"Approved",37,5,TRUE,0,3,0.48,0.31
+"IT00310","Obstetrics & Gynecology","Family Planning","Prevention","Analyze","Author 03",2025-06-20,"Retired",70,4,FALSE,1,0,NA,NA
+"IT00311","Public Health","Health Policy","Management","Remember","Author 09",2025-06-21,"Approved",8,4,FALSE,0,1,0.78,0.1
+"IT00312","Obstetrics & Gynecology","Prenatal Care","Management","Remember","Author 14",2025-06-23,"Returned",8,5,FALSE,2,0,NA,NA
+"IT00313","Internal Medicine","Endocrinology","Clinical Reasoning","Remember","Author 18",2025-06-24,"Approved",31,4,FALSE,1,1,0.58,0.29
+"IT00314","Obstetrics & Gynecology","Labor & Delivery","Diagnosis","Apply","Author 11",2025-06-24,"Returned",118,5,FALSE,0,0,NA,NA
+"IT00315","Internal Medicine","Infectious Diseases","Management","Apply","Author 01",2025-06-25,"Approved",99,5,FALSE,0,2,0.64,0.19
+"IT00316","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Remember","Author 17",2025-06-25,"Approved",51,5,FALSE,2,1,0.59,0.39
+"IT00317","Pediatrics","Pediatric Infections","Prevention","Understand","Author 03",2025-06-26,"Approved",49,5,FALSE,1,0,NA,NA
+"IT00318","Pediatrics","Pediatric Infections","Prevention","Apply","Author 07",2025-06-26,"Approved",54,4,FALSE,0,1,0.78,0.09
+"IT00319","Surgery","Trauma","Diagnosis","Understand","Author 12",2025-06-27,"Approved",8,5,FALSE,0,0,NA,NA
+"IT00320","Surgery","Acute Abdomen","Prevention","Remember","Author 11",2025-06-28,"Approved",48,5,FALSE,0,1,0.79,0.08
+"IT00321","Public Health","Epidemiology","Management","Apply","Author 06",2025-06-28,"Approved",76,4,FALSE,1,2,0.53,0.07
+"IT00322","Pediatrics","Immunization","Clinical Reasoning","Apply","Author 16",2025-06-29,"Approved",56,5,FALSE,0,4,0.89,0.16
+"IT00323","Internal Medicine","Nephrology","Clinical Reasoning","Remember","Author 01",2025-06-29,"Under review",12,5,FALSE,0,0,NA,NA
+"IT00324","Public Health","Health Policy","Prevention","Understand","Author 13",2025-06-30,"Returned",21,5,FALSE,0,0,NA,NA
+"IT00325","Internal Medicine","Cardiology","Prevention","Evaluate","Author 13",2025-07-01,"Approved",125,4,FALSE,0,0,NA,NA
+"IT00326","Obstetrics & Gynecology","Labor & Delivery","Prevention","Understand","Author 15",2025-07-02,"Approved",8,5,FALSE,1,2,0.16,0.38
+"IT00327","Obstetrics & Gynecology","Family Planning","Diagnosis","Understand","Author 06",2025-07-02,"Approved",44,5,TRUE,1,1,0.68,0.13
+"IT00328","Surgery","Vascular Surgery","Prevention","Apply","Author 04",2025-07-02,"Approved",80,5,FALSE,0,0,NA,NA
+"IT00329","Pediatrics","Neonatology","Management","Apply","Author 15",2025-07-03,"Approved",130,5,TRUE,0,1,0.73,0.09
+"IT00330","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Understand","Author 08",2025-07-03,"Approved",8,4,FALSE,0,4,0.4,0.38
+"IT00331","Pediatrics","Neonatology","Diagnosis","Understand","Author 14",2025-07-06,"Approved",8,5,FALSE,1,1,0.28,0.26
+"IT00332","Obstetrics & Gynecology","Labor & Delivery","Management","Apply","Author 16",2025-07-06,"Returned",67,5,FALSE,0,0,NA,NA
+"IT00333","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Remember","Author 10",2025-07-07,"Approved",8,5,FALSE,0,0,NA,NA
+"IT00334","Public Health","Epidemiology","Management","Evaluate","Author 12",2025-07-07,"Approved",74,4,FALSE,2,2,0.68,0.36
+"IT00335","Internal Medicine","Endocrinology","Prevention","Understand","Author 13",2025-07-07,"Approved",8,5,FALSE,1,0,NA,NA
+"IT00336","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Apply","Author 09",2025-07-08,"Under review",66,5,FALSE,2,0,NA,NA
+"IT00337","Internal Medicine","Infectious Diseases","Diagnosis","Understand","Author 08",2025-07-08,"Approved",69,5,FALSE,1,1,0.95,0.2
+"IT00338","Surgery","Vascular Surgery","Diagnosis","Remember","Author 14",2025-07-09,"Approved",37,5,FALSE,3,2,0.66,0.42
+"IT00339","Pediatrics","Pediatric Infections","Diagnosis","Remember","Author 07",2025-07-09,"Returned",62,5,TRUE,0,0,NA,NA
+"IT00340","Surgery","Perioperative Care","Management","Understand","Author 08",2025-07-09,"Approved",34,5,FALSE,0,1,0.51,0.34
+"IT00341","Pediatrics","Pediatric Infections","Diagnosis","Apply","Author 14",2025-07-09,"Approved",64,5,FALSE,0,1,0.5,0.43
+"IT00342","Surgery","Acute Abdomen","Diagnosis","Apply","Author 04",2025-07-09,"Under review",89,5,FALSE,0,0,NA,NA
+"IT00343","Internal Medicine","Cardiology","Diagnosis","Understand","Author 16",2025-07-10,"Approved",28,5,FALSE,0,1,0.61,0.36
+"IT00344","Internal Medicine","Endocrinology","Diagnosis","Understand","Author 12",2025-07-12,"Under review",51,4,FALSE,1,0,NA,NA
+"IT00345","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Remember","Author 13",2025-07-12,"Approved",14,5,TRUE,0,0,NA,NA
+"IT00346","Internal Medicine","Infectious Diseases","Prevention","Apply","Author 14",2025-07-12,"Approved",93,5,FALSE,1,0,NA,NA
+"IT00347","Pediatrics","Growth & Development","Prevention","Analyze","Author 03",2025-07-13,"Approved",62,5,FALSE,1,0,NA,NA
+"IT00348","Pediatrics","Pediatric Infections","Diagnosis","Understand","Author 10",2025-07-13,"Approved",48,5,FALSE,0,0,NA,NA
+"IT00349","Surgery","Acute Abdomen","Clinical Reasoning","Apply","Author 07",2025-07-14,"Approved",77,5,TRUE,0,1,0.42,0.34
+"IT00350","Internal Medicine","Cardiology","Diagnosis","Apply","Author 14",2025-07-15,"Approved",113,5,FALSE,0,2,0.62,0.28
+"IT00351","Surgery","Vascular Surgery","Clinical Reasoning","Remember","Author 07",2025-07-16,"Approved",33,5,FALSE,1,1,0.52,0.08
+"IT00352","Public Health","Health Policy","Clinical Reasoning","Apply","Author 13",2025-07-16,"Approved",97,5,TRUE,0,2,0.87,0.32
+"IT00353","Internal Medicine","Endocrinology","Prevention","Remember","Author 05",2025-07-16,"Under review",66,5,FALSE,0,0,NA,NA
+"IT00354","Internal Medicine","Cardiology","Prevention","Understand","Author 10",2025-07-16,"Approved",52,5,FALSE,1,0,NA,NA
+"IT00355","Surgery","Acute Abdomen","Management","Analyze","Author 01",2025-07-17,"Approved",89,5,FALSE,0,3,0.46,0.18
+"IT00356","Public Health","Primary Care","Prevention","Understand","Author 11",2025-07-18,"Returned",8,5,FALSE,0,0,NA,NA
+"IT00357","Public Health","Primary Care","Prevention","Apply","Author 13",2025-07-19,"Approved",96,5,TRUE,0,0,NA,NA
+"IT00358","Internal Medicine","Nephrology","Management","Understand","Author 14",2025-07-19,"Returned",8,5,FALSE,0,0,NA,NA
+"IT00359","Pediatrics","Immunization","Prevention","Apply","Author 17",2025-07-19,"Approved",109,5,FALSE,0,2,0.67,0.35
+"IT00360","Obstetrics & Gynecology","Gynecologic Oncology","Clinical Reasoning","Apply","Author 04",2025-07-20,"Approved",69,5,TRUE,0,0,NA,NA
+"IT00361","Internal Medicine","Cardiology","Clinical Reasoning","Remember","Author 15",2025-07-20,"Approved",42,5,FALSE,0,1,0.49,0.17
+"IT00362","Internal Medicine","Cardiology","Prevention","Understand","Author 15",2025-07-20,"Approved",11,4,FALSE,1,1,0.6,0.16
+"IT00363","Public Health","Health Policy","Diagnosis","Remember","Author 17",2025-07-20,"Approved",38,4,FALSE,1,2,0.37,0.3
+"IT00364","Internal Medicine","Infectious Diseases","Prevention","Apply","Author 10",2025-07-21,"Approved",86,4,FALSE,0,1,0.7,0.46
+"IT00365","Surgery","Acute Abdomen","Prevention","Understand","Author 09",2025-07-21,"Approved",32,5,FALSE,0,1,0.24,0.13
+"IT00366","Internal Medicine","Cardiology","Clinical Reasoning","Apply","Author 10",2025-07-21,"Approved",73,5,FALSE,0,1,0.47,0.29
+"IT00367","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Apply","Author 09",2025-07-21,"Returned",49,5,TRUE,0,0,NA,NA
+"IT00368","Public Health","Primary Care","Clinical Reasoning","Remember","Author 07",2025-07-22,"Retired",100,5,TRUE,1,0,NA,NA
+"IT00369","Surgery","Acute Abdomen","Diagnosis","Apply","Author 16",2025-07-22,"Approved",57,5,FALSE,3,1,0.4,0.54
+"IT00370","Public Health","Health Policy","Management","Analyze","Author 12",2025-07-22,"Under review",101,5,FALSE,0,0,NA,NA
+"IT00371","Obstetrics & Gynecology","Prenatal Care","Prevention","Remember","Author 09",2025-07-23,"Approved",13,5,FALSE,1,4,0.86,0.36
+"IT00372","Surgery","Perioperative Care","Management","Understand","Author 14",2025-07-23,"Approved",8,5,FALSE,0,1,0.64,0.36
+"IT00373","Public Health","Preventive Medicine","Management","Analyze","Author 10",2025-07-23,"Approved",122,4,TRUE,0,2,0.82,0.22
+"IT00374","Pediatrics","Pediatric Infections","Diagnosis","Apply","Author 15",2025-07-23,"Returned",73,4,FALSE,0,0,NA,NA
+"IT00375","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Understand","Author 10",2025-07-24,"Approved",31,5,FALSE,0,1,0.75,0.47
+"IT00376","Internal Medicine","Cardiology","Management","Apply","Author 15",2025-07-24,"Retired",133,4,FALSE,1,0,NA,NA
+"IT00377","Surgery","Perioperative Care","Diagnosis","Understand","Author 07",2025-07-24,"Returned",53,5,TRUE,0,0,NA,NA
+"IT00378","Internal Medicine","Cardiology","Clinical Reasoning","Apply","Author 17",2025-07-25,"Approved",93,4,FALSE,1,2,0.63,0.27
+"IT00379","Internal Medicine","Cardiology","Management","Understand","Author 05",2025-07-25,"Approved",23,5,TRUE,0,3,0.8,0.51
+"IT00380","Internal Medicine","Nephrology","Management","Apply","Author 13",2025-07-25,"Approved",79,4,FALSE,0,1,0.73,0.49
+"IT00381","Obstetrics & Gynecology","Family Planning","Prevention","Analyze","Author 13",2025-07-25,"Approved",79,4,FALSE,0,3,0.76,0.48
+"IT00382","Public Health","Health Policy","Management","Understand","Author 04",2025-07-25,"Approved",25,4,FALSE,1,1,0.4,0.34
+"IT00383","Pediatrics","Growth & Development","Prevention","Understand","Author 05",2025-07-26,"Returned",71,4,FALSE,0,0,NA,NA
+"IT00384","Surgery","Trauma","Clinical Reasoning","Remember","Author 18",2025-07-27,"Approved",35,5,FALSE,2,2,0.59,0.25
+"IT00385","Public Health","Primary Care","Management","Apply","Author 12",2025-07-27,"Approved",66,5,FALSE,1,1,0.91,0.18
+"IT00386","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Analyze","Author 05",2025-07-28,"Approved",108,5,FALSE,0,5,0.13,0.32
+"IT00387","Surgery","Acute Abdomen","Clinical Reasoning","Understand","Author 15",2025-07-28,"Approved",38,5,FALSE,0,1,0.27,0.37
+"IT00388","Internal Medicine","Infectious Diseases","Management","Understand","Author 05",2025-07-28,"Approved",8,5,FALSE,0,2,0.62,0.12
+"IT00389","Internal Medicine","Infectious Diseases","Diagnosis","Apply","Author 17",2025-07-28,"Approved",62,5,FALSE,0,0,NA,NA
+"IT00390","Surgery","Perioperative Care","Clinical Reasoning","Analyze","Author 04",2025-07-29,"Approved",71,5,FALSE,2,2,0.84,0.22
+"IT00391","Public Health","Primary Care","Prevention","Evaluate","Author 01",2025-07-29,"Returned",96,4,FALSE,0,0,NA,NA
+"IT00392","Obstetrics & Gynecology","Labor & Delivery","Management","Understand","Author 16",2025-07-30,"Returned",15,5,TRUE,0,0,NA,NA
+"IT00393","Pediatrics","Neonatology","Management","Remember","Author 06",2025-07-30,"Approved",34,5,FALSE,3,3,0.85,0.41
+"IT00394","Internal Medicine","Cardiology","Clinical Reasoning","Apply","Author 04",2025-07-31,"Approved",59,5,FALSE,0,0,NA,NA
+"IT00395","Internal Medicine","Infectious Diseases","Prevention","Understand","Author 03",2025-07-31,"Approved",64,5,TRUE,1,1,0.77,0.26
+"IT00396","Surgery","Acute Abdomen","Management","Remember","Author 10",2025-08-01,"Returned",32,5,FALSE,0,0,NA,NA
+"IT00397","Internal Medicine","Infectious Diseases","Clinical Reasoning","Remember","Author 07",2025-08-01,"Approved",33,5,FALSE,1,1,0.47,0.19
+"IT00398","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Remember","Author 06",2025-08-02,"Approved",9,5,FALSE,0,1,0.92,0.23
+"IT00399","Surgery","Trauma","Clinical Reasoning","Remember","Author 17",2025-08-03,"Approved",27,4,FALSE,0,3,0.35,0.13
+"IT00400","Internal Medicine","Cardiology","Clinical Reasoning","Evaluate","Author 14",2025-08-03,"Approved",106,5,FALSE,0,0,NA,NA
+"IT00401","Pediatrics","Neonatology","Diagnosis","Apply","Author 08",2025-08-05,"Approved",65,5,FALSE,2,2,0.8,0.23
+"IT00402","Pediatrics","Neonatology","Management","Apply","Author 10",2025-08-05,"Approved",73,5,FALSE,0,0,NA,NA
+"IT00403","Surgery","Trauma","Management","Remember","Author 14",2025-08-06,"Approved",28,5,FALSE,2,2,0.86,0.07
+"IT00404","Internal Medicine","Infectious Diseases","Clinical Reasoning","Understand","Author 14",2025-08-06,"Retired",8,5,FALSE,0,0,NA,NA
+"IT00405","Pediatrics","Pediatric Infections","Prevention","Apply","Author 12",2025-08-07,"Approved",86,5,FALSE,0,1,0.57,0.31
+"IT00406","Internal Medicine","Endocrinology","Diagnosis","Analyze","Author 14",2025-08-07,"Approved",31,5,FALSE,0,1,0.66,0.14
+"IT00407","Internal Medicine","Cardiology","Management","Understand","Author 14",2025-08-08,"Approved",76,5,FALSE,0,4,0.75,0.23
+"IT00408","Pediatrics","Pediatric Infections","Diagnosis","Apply","Author 03",2025-08-08,"Approved",83,4,FALSE,1,5,0.8,0.08
+"IT00409","Pediatrics","Growth & Development","Clinical Reasoning","Apply","Author 13",2025-08-08,"Retired",73,4,FALSE,0,0,NA,NA
+"IT00410","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Understand","Author 18",2025-08-09,"Approved",29,5,FALSE,1,1,0.48,0.3
+"IT00411","Public Health","Health Policy","Prevention","Apply","Author 03",2025-08-09,"Draft",101,5,FALSE,0,0,NA,NA
+"IT00412","Pediatrics","Growth & Development","Clinical Reasoning","Understand","Author 01",2025-08-09,"Approved",30,5,FALSE,0,2,0.5,0.29
+"IT00413","Pediatrics","Growth & Development","Management","Understand","Author 08",2025-08-10,"Approved",40,4,TRUE,1,1,0.63,0.3
+"IT00414","Surgery","Vascular Surgery","Management","Apply","Author 01",2025-08-10,"Approved",97,4,FALSE,0,5,0.45,0.35
+"IT00415","Internal Medicine","Pulmonology","Prevention","Apply","Author 14",2025-08-10,"Approved",70,5,FALSE,0,2,0.67,0.32
+"IT00416","Internal Medicine","Cardiology","Prevention","Understand","Author 12",2025-08-11,"Approved",20,5,TRUE,1,2,0.59,0.13
+"IT00417","Pediatrics","Immunization","Prevention","Remember","Author 18",2025-08-12,"Approved",48,5,FALSE,0,3,0.65,0.04
+"IT00418","Internal Medicine","Cardiology","Diagnosis","Evaluate","Author 14",2025-08-12,"Returned",90,5,TRUE,0,0,NA,NA
+"IT00419","Public Health","Primary Care","Clinical Reasoning","Analyze","Author 14",2025-08-12,"Returned",92,5,FALSE,0,0,NA,NA
+"IT00420","Pediatrics","Neonatology","Management","Understand","Author 18",2025-08-13,"Approved",80,5,FALSE,1,0,NA,NA
+"IT00421","Internal Medicine","Cardiology","Diagnosis","Apply","Author 04",2025-08-14,"Approved",95,5,FALSE,1,4,0.3,0.2
+"IT00422","Internal Medicine","Infectious Diseases","Prevention","Remember","Author 13",2025-08-14,"Under review",8,4,FALSE,0,0,NA,NA
+"IT00423","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Understand","Author 16",2025-08-15,"Approved",71,4,FALSE,0,0,NA,NA
+"IT00424","Pediatrics","Pediatric Infections","Clinical Reasoning","Understand","Author 17",2025-08-16,"Approved",8,5,FALSE,1,1,0.66,0.16
+"IT00425","Internal Medicine","Cardiology","Prevention","Understand","Author 12",2025-08-17,"Approved",39,5,FALSE,1,0,NA,NA
+"IT00426","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 05",2025-08-17,"Approved",43,5,FALSE,0,0,NA,NA
+"IT00427","Pediatrics","Neonatology","Clinical Reasoning","Apply","Author 01",2025-08-17,"Approved",79,5,FALSE,0,2,0.55,0.41
+"IT00428","Pediatrics","Pediatric Infections","Prevention","Apply","Author 13",2025-08-18,"Approved",59,4,FALSE,0,1,0.15,0.34
+"IT00429","Pediatrics","Immunization","Diagnosis","Understand","Author 16",2025-08-20,"Approved",32,5,FALSE,0,1,0.74,0.16
+"IT00430","Obstetrics & Gynecology","Gynecologic Oncology","Prevention","Remember","Author 07",2025-08-20,"Under review",34,5,FALSE,0,0,NA,NA
+"IT00431","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Remember","Author 06",2025-08-20,"Approved",28,5,FALSE,1,0,NA,NA
+"IT00432","Pediatrics","Pediatric Infections","Diagnosis","Understand","Author 04",2025-08-20,"Approved",25,4,FALSE,1,0,NA,NA
+"IT00433","Obstetrics & Gynecology","Labor & Delivery","Diagnosis","Understand","Author 13",2025-08-21,"Approved",32,5,FALSE,0,1,0.7,0.29
+"IT00434","Pediatrics","Growth & Development","Clinical Reasoning","Remember","Author 11",2025-08-21,"Draft",8,5,FALSE,2,0,NA,NA
+"IT00435","Public Health","Health Policy","Clinical Reasoning","Analyze","Author 04",2025-08-22,"Approved",120,5,FALSE,0,2,0.84,0.41
+"IT00436","Pediatrics","Growth & Development","Prevention","Remember","Author 01",2025-08-22,"Approved",54,5,FALSE,1,2,0.74,0.42
+"IT00437","Public Health","Preventive Medicine","Prevention","Analyze","Author 12",2025-08-24,"Retired",73,5,FALSE,0,0,NA,NA
+"IT00438","Pediatrics","Immunization","Prevention","Analyze","Author 03",2025-08-24,"Approved",71,5,FALSE,0,3,0.32,0.33
+"IT00439","Public Health","Health Policy","Diagnosis","Apply","Author 15",2025-08-25,"Approved",83,5,FALSE,0,3,0.75,0.55
+"IT00440","Internal Medicine","Pulmonology","Prevention","Understand","Author 05",2025-08-25,"Approved",39,5,FALSE,1,1,0.77,0.21
+"IT00441","Surgery","Trauma","Diagnosis","Apply","Author 18",2025-08-25,"Approved",88,4,FALSE,0,2,0.97,0.31
+"IT00442","Internal Medicine","Cardiology","Prevention","Understand","Author 10",2025-08-26,"Approved",8,5,FALSE,0,2,0.2,0.17
+"IT00443","Internal Medicine","Nephrology","Management","Analyze","Author 02",2025-08-26,"Approved",104,5,FALSE,0,5,0.12,0.3
+"IT00444","Internal Medicine","Cardiology","Prevention","Remember","Author 13",2025-08-26,"Under review",50,5,FALSE,1,0,NA,NA
+"IT00445","Internal Medicine","Nephrology","Diagnosis","Remember","Author 05",2025-08-26,"Approved",33,5,FALSE,0,1,0.41,0.15
+"IT00446","Surgery","Perioperative Care","Management","Analyze","Author 12",2025-08-28,"Approved",86,5,FALSE,2,2,0.15,0.29
+"IT00447","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 14",2025-08-29,"Approved",34,4,FALSE,0,1,0.29,0.15
+"IT00448","Surgery","Perioperative Care","Diagnosis","Understand","Author 04",2025-08-29,"Approved",41,5,FALSE,0,1,0.64,0.29
+"IT00449","Pediatrics","Neonatology","Management","Apply","Author 10",2025-08-30,"Returned",81,5,FALSE,0,0,NA,NA
+"IT00450","Internal Medicine","Infectious Diseases","Prevention","Apply","Author 06",2025-08-30,"Returned",117,5,FALSE,1,0,NA,NA
+"IT00451","Public Health","Health Policy","Clinical Reasoning","Remember","Author 12",2025-09-01,"Approved",8,5,TRUE,0,1,0.34,0.34
+"IT00452","Surgery","Perioperative Care","Diagnosis","Analyze","Author 01",2025-09-01,"Approved",103,5,FALSE,2,0,NA,NA
+"IT00453","Internal Medicine","Cardiology","Management","Apply","Author 17",2025-09-02,"Returned",99,5,FALSE,0,0,NA,NA
+"IT00454","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Understand","Author 16",2025-09-02,"Approved",20,5,FALSE,1,1,0.39,0.28
+"IT00455","Internal Medicine","Cardiology","Clinical Reasoning","Apply","Author 02",2025-09-03,"Approved",62,5,FALSE,0,1,0.4,0.38
+"IT00456","Pediatrics","Growth & Development","Management","Understand","Author 13",2025-09-04,"Approved",35,5,FALSE,0,1,0.76,0.27
+"IT00457","Obstetrics & Gynecology","Labor & Delivery","Prevention","Apply","Author 09",2025-09-04,"Approved",94,5,FALSE,0,1,0.84,0.27
+"IT00458","Obstetrics & Gynecology","Prenatal Care","Prevention","Remember","Author 13",2025-09-06,"Approved",60,4,FALSE,1,2,0.16,0.49
+"IT00459","Obstetrics & Gynecology","Labor & Delivery","Management","Remember","Author 14",2025-09-07,"Approved",30,5,TRUE,2,2,0.57,0.28
+"IT00460","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Remember","Author 07",2025-09-07,"Approved",52,5,FALSE,0,1,0.76,0.28
+"IT00461","Pediatrics","Growth & Development","Management","Understand","Author 08",2025-09-07,"Approved",8,4,FALSE,0,2,0.47,0.19
+"IT00462","Public Health","Epidemiology","Diagnosis","Apply","Author 04",2025-09-08,"Returned",60,5,FALSE,0,0,NA,NA
+"IT00463","Surgery","Acute Abdomen","Clinical Reasoning","Evaluate","Author 08",2025-09-09,"Draft",70,5,TRUE,0,0,NA,NA
+"IT00464","Internal Medicine","Nephrology","Clinical Reasoning","Remember","Author 03",2025-09-09,"Approved",29,5,FALSE,0,3,0.77,0.35
+"IT00465","Obstetrics & Gynecology","Gynecologic Oncology","Clinical Reasoning","Apply","Author 15",2025-09-10,"Approved",83,5,FALSE,0,0,NA,NA
+"IT00466","Pediatrics","Neonatology","Management","Remember","Author 09",2025-09-10,"Approved",19,5,FALSE,0,3,0.61,0.39
+"IT00467","Surgery","Acute Abdomen","Diagnosis","Remember","Author 16",2025-09-10,"Under review",44,4,FALSE,2,0,NA,NA
+"IT00468","Internal Medicine","Infectious Diseases","Clinical Reasoning","Remember","Author 07",2025-09-10,"Approved",67,5,FALSE,1,3,0.54,0.25
+"IT00469","Internal Medicine","Pulmonology","Management","Remember","Author 15",2025-09-10,"Approved",17,5,FALSE,1,1,0.44,0.26
+"IT00470","Surgery","Acute Abdomen","Diagnosis","Evaluate","Author 11",2025-09-12,"Draft",73,5,FALSE,1,0,NA,NA
+"IT00471","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Apply","Author 15",2025-09-12,"Approved",37,4,FALSE,0,0,NA,NA
+"IT00472","Pediatrics","Immunization","Prevention","Understand","Author 10",2025-09-13,"Approved",25,5,FALSE,0,1,0.25,0.35
+"IT00473","Internal Medicine","Infectious Diseases","Clinical Reasoning","Apply","Author 17",2025-09-14,"Under review",100,5,FALSE,0,0,NA,NA
+"IT00474","Pediatrics","Immunization","Management","Remember","Author 16",2025-09-15,"Approved",19,4,TRUE,0,1,0.71,0.18
+"IT00475","Obstetrics & Gynecology","Prenatal Care","Management","Remember","Author 03",2025-09-15,"Approved",8,5,FALSE,3,4,0.83,0.02
+"IT00476","Public Health","Health Policy","Diagnosis","Analyze","Author 14",2025-09-15,"Returned",52,5,FALSE,1,0,NA,NA
+"IT00477","Surgery","Acute Abdomen","Diagnosis","Understand","Author 15",2025-09-15,"Returned",51,5,FALSE,0,0,NA,NA
+"IT00478","Internal Medicine","Nephrology","Management","Apply","Author 17",2025-09-16,"Approved",113,5,FALSE,1,1,0.85,0.34
+"IT00479","Public Health","Epidemiology","Management","Apply","Author 01",2025-09-17,"Approved",65,5,FALSE,0,3,0.47,0.39
+"IT00480","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Apply","Author 04",2025-09-18,"Approved",106,5,FALSE,0,1,0.65,0.14
+"IT00481","Surgery","Perioperative Care","Diagnosis","Understand","Author 01",2025-09-18,"Approved",18,4,FALSE,0,0,NA,NA
+"IT00482","Surgery","Vascular Surgery","Clinical Reasoning","Understand","Author 06",2025-09-19,"Draft",12,5,FALSE,0,0,NA,NA
+"IT00483","Surgery","Trauma","Diagnosis","Apply","Author 03",2025-09-21,"Approved",112,4,FALSE,2,1,0.81,0.22
+"IT00484","Pediatrics","Pediatric Infections","Management","Understand","Author 08",2025-09-21,"Approved",68,5,FALSE,0,2,0.88,0.32
+"IT00485","Public Health","Health Policy","Diagnosis","Remember","Author 08",2025-09-22,"Approved",30,5,FALSE,0,2,0.73,0.37
+"IT00486","Public Health","Health Policy","Management","Understand","Author 11",2025-09-22,"Approved",8,5,FALSE,0,1,0.67,0.28
+"IT00487","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Analyze","Author 01",2025-09-23,"Under review",89,5,FALSE,1,0,NA,NA
+"IT00488","Surgery","Trauma","Diagnosis","Understand","Author 06",2025-09-23,"Approved",8,4,FALSE,0,2,0.73,0.25
+"IT00489","Pediatrics","Growth & Development","Management","Analyze","Author 01",2025-09-23,"Approved",90,5,FALSE,0,1,0.64,0.41
+"IT00490","Obstetrics & Gynecology","Labor & Delivery","Prevention","Apply","Author 16",2025-09-25,"Approved",115,4,FALSE,0,0,NA,NA
+"IT00491","Pediatrics","Growth & Development","Diagnosis","Apply","Author 08",2025-09-26,"Approved",80,5,FALSE,0,2,0.91,0.24
+"IT00492","Surgery","Trauma","Prevention","Remember","Author 09",2025-09-26,"Approved",32,5,FALSE,0,1,0.35,0.23
+"IT00493","Surgery","Trauma","Management","Analyze","Author 16",2025-09-27,"Approved",37,5,TRUE,2,0,NA,NA
+"IT00494","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Remember","Author 03",2025-09-27,"Approved",20,4,FALSE,0,2,0.52,0.29
+"IT00495","Internal Medicine","Cardiology","Management","Understand","Author 17",2025-09-28,"Under review",71,5,TRUE,1,0,NA,NA
+"IT00496","Pediatrics","Immunization","Clinical Reasoning","Remember","Author 09",2025-09-28,"Under review",8,5,FALSE,0,0,NA,NA
+"IT00497","Public Health","Epidemiology","Diagnosis","Remember","Author 14",2025-09-28,"Approved",43,4,FALSE,0,1,0.97,0.29
+"IT00498","Public Health","Preventive Medicine","Diagnosis","Understand","Author 12",2025-09-28,"Approved",14,5,FALSE,0,1,0.79,-0.04
+"IT00499","Internal Medicine","Pulmonology","Diagnosis","Understand","Author 09",2025-09-28,"Approved",9,5,FALSE,0,0,NA,NA
+"IT00500","Public Health","Health Policy","Clinical Reasoning","Understand","Author 15",2025-09-29,"Approved",71,5,FALSE,1,0,NA,NA
+"IT00501","Pediatrics","Growth & Development","Diagnosis","Remember","Author 17",2025-09-29,"Approved",8,5,FALSE,0,1,0.31,0.21
+"IT00502","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Understand","Author 18",2025-09-29,"Approved",76,5,FALSE,0,1,0.75,0.31
+"IT00503","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Apply","Author 15",2025-09-30,"Approved",53,4,FALSE,0,3,0.62,0.26
+"IT00504","Internal Medicine","Nephrology","Diagnosis","Remember","Author 04",2025-09-30,"Approved",8,5,FALSE,0,0,NA,NA
+"IT00505","Pediatrics","Pediatric Infections","Prevention","Understand","Author 13",2025-10-01,"Returned",42,5,FALSE,0,0,NA,NA
+"IT00506","Internal Medicine","Pulmonology","Diagnosis","Analyze","Author 09",2025-10-01,"Approved",88,5,FALSE,1,2,0.41,0.12
+"IT00507","Pediatrics","Immunization","Diagnosis","Analyze","Author 01",2025-10-02,"Approved",62,5,FALSE,0,2,0.94,0.37
+"IT00508","Surgery","Vascular Surgery","Management","Analyze","Author 13",2025-10-02,"Approved",53,5,FALSE,1,2,0.25,0.26
+"IT00509","Public Health","Preventive Medicine","Diagnosis","Remember","Author 11",2025-10-03,"Approved",10,5,FALSE,2,3,0.41,0.32
+"IT00510","Surgery","Trauma","Management","Remember","Author 12",2025-10-03,"Draft",63,5,FALSE,1,0,NA,NA
+"IT00511","Internal Medicine","Pulmonology","Diagnosis","Understand","Author 01",2025-10-03,"Approved",31,5,FALSE,0,1,0.49,0.28
+"IT00512","Surgery","Acute Abdomen","Management","Analyze","Author 03",2025-10-03,"Approved",120,4,FALSE,0,0,NA,NA
+"IT00513","Pediatrics","Pediatric Infections","Diagnosis","Analyze","Author 07",2025-10-05,"Retired",102,5,FALSE,0,0,NA,NA
+"IT00514","Pediatrics","Pediatric Infections","Prevention","Understand","Author 05",2025-10-06,"Returned",47,5,FALSE,0,0,NA,NA
+"IT00515","Public Health","Health Policy","Diagnosis","Apply","Author 18",2025-10-07,"Under review",112,5,FALSE,0,0,NA,NA
+"IT00516","Pediatrics","Pediatric Infections","Clinical Reasoning","Remember","Author 08",2025-10-07,"Approved",19,4,FALSE,3,1,0.22,0.07
+"IT00517","Pediatrics","Pediatric Infections","Prevention","Remember","Author 06",2025-10-07,"Retired",53,5,FALSE,0,0,NA,NA
+"IT00518","Obstetrics & Gynecology","Gynecologic Oncology","Prevention","Apply","Author 02",2025-10-07,"Approved",105,5,FALSE,2,2,0.48,-0.04
+"IT00519","Internal Medicine","Nephrology","Clinical Reasoning","Understand","Author 12",2025-10-08,"Approved",18,5,FALSE,0,3,0.19,0.22
+"IT00520","Surgery","Perioperative Care","Management","Remember","Author 01",2025-10-09,"Approved",91,5,TRUE,0,2,0.42,0.17
+"IT00521","Surgery","Perioperative Care","Management","Understand","Author 14",2025-10-09,"Approved",53,5,FALSE,1,1,0.81,0.38
+"IT00522","Public Health","Preventive Medicine","Clinical Reasoning","Apply","Author 05",2025-10-09,"Returned",91,4,FALSE,0,0,NA,NA
+"IT00523","Obstetrics & Gynecology","Family Planning","Prevention","Understand","Author 11",2025-10-10,"Approved",45,5,FALSE,1,7,0.28,0.17
+"IT00524","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Remember","Author 16",2025-10-10,"Approved",40,5,TRUE,2,2,0.36,0.34
+"IT00525","Internal Medicine","Endocrinology","Management","Apply","Author 13",2025-10-10,"Approved",121,4,FALSE,2,5,0.63,0.01
+"IT00526","Obstetrics & Gynecology","Prenatal Care","Prevention","Remember","Author 17",2025-10-11,"Approved",24,5,TRUE,2,0,NA,NA
+"IT00527","Pediatrics","Immunization","Clinical Reasoning","Analyze","Author 02",2025-10-11,"Approved",101,5,FALSE,0,1,0.77,0.14
+"IT00528","Internal Medicine","Infectious Diseases","Clinical Reasoning","Analyze","Author 01",2025-10-12,"Approved",62,5,FALSE,1,0,NA,NA
+"IT00529","Pediatrics","Growth & Development","Diagnosis","Apply","Author 11",2025-10-12,"Approved",29,5,FALSE,0,1,0.22,0.23
+"IT00530","Pediatrics","Neonatology","Prevention","Apply","Author 15",2025-10-13,"Approved",54,5,FALSE,0,1,0.71,0.46
+"IT00531","Internal Medicine","Pulmonology","Prevention","Apply","Author 08",2025-10-13,"Approved",118,5,FALSE,0,1,0.86,0.18
+"IT00532","Internal Medicine","Nephrology","Prevention","Remember","Author 03",2025-10-13,"Approved",62,5,TRUE,0,1,0.94,0.15
+"IT00533","Surgery","Vascular Surgery","Diagnosis","Apply","Author 06",2025-10-13,"Approved",79,5,FALSE,0,1,0.85,0.29
+"IT00534","Internal Medicine","Infectious Diseases","Diagnosis","Apply","Author 10",2025-10-13,"Approved",92,4,FALSE,1,1,0.48,0.32
+"IT00535","Public Health","Preventive Medicine","Clinical Reasoning","Evaluate","Author 14",2025-10-14,"Returned",47,5,FALSE,0,0,NA,NA
+"IT00536","Internal Medicine","Endocrinology","Management","Understand","Author 12",2025-10-15,"Retired",34,5,FALSE,0,0,NA,NA
+"IT00537","Obstetrics & Gynecology","Gynecologic Oncology","Clinical Reasoning","Understand","Author 18",2025-10-15,"Approved",38,5,FALSE,0,3,0.56,0.11
+"IT00538","Pediatrics","Immunization","Prevention","Understand","Author 17",2025-10-15,"Approved",14,4,FALSE,0,1,0.71,0.29
+"IT00539","Internal Medicine","Nephrology","Management","Remember","Author 12",2025-10-15,"Approved",40,4,TRUE,2,2,0.65,0.43
+"IT00540","Internal Medicine","Cardiology","Prevention","Apply","Author 12",2025-10-16,"Approved",72,5,FALSE,0,1,0.7,0.21
+"IT00541","Surgery","Trauma","Prevention","Apply","Author 10",2025-10-16,"Approved",81,5,FALSE,0,2,0.55,0.44
+"IT00542","Obstetrics & Gynecology","Labor & Delivery","Management","Understand","Author 12",2025-10-16,"Approved",17,4,FALSE,1,0,NA,NA
+"IT00543","Pediatrics","Immunization","Prevention","Understand","Author 11",2025-10-17,"Approved",38,5,FALSE,1,0,NA,NA
+"IT00544","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Analyze","Author 03",2025-10-18,"Returned",111,5,FALSE,1,0,NA,NA
+"IT00545","Pediatrics","Growth & Development","Management","Remember","Author 09",2025-10-18,"Approved",50,4,FALSE,2,0,NA,NA
+"IT00546","Internal Medicine","Endocrinology","Prevention","Apply","Author 02",2025-10-20,"Returned",76,5,FALSE,1,0,NA,NA
+"IT00547","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Remember","Author 07",2025-10-20,"Approved",43,5,FALSE,2,2,0.49,0.28
+"IT00548","Internal Medicine","Nephrology","Clinical Reasoning","Understand","Author 08",2025-10-20,"Approved",23,5,FALSE,0,1,0.73,0.38
+"IT00549","Obstetrics & Gynecology","Labor & Delivery","Management","Remember","Author 15",2025-10-21,"Approved",8,5,FALSE,1,2,0.63,0.23
+"IT00550","Internal Medicine","Pulmonology","Diagnosis","Understand","Author 12",2025-10-21,"Approved",8,5,FALSE,0,1,0.74,0.25
+"IT00551","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Understand","Author 03",2025-10-23,"Returned",8,5,FALSE,0,0,NA,NA
+"IT00552","Internal Medicine","Pulmonology","Prevention","Analyze","Author 17",2025-10-23,"Approved",97,5,FALSE,0,0,NA,NA
+"IT00553","Surgery","Trauma","Prevention","Remember","Author 01",2025-10-23,"Approved",67,5,FALSE,0,1,0.24,0.37
+"IT00554","Internal Medicine","Infectious Diseases","Diagnosis","Apply","Author 06",2025-10-24,"Approved",83,5,FALSE,0,5,0.9,0.06
+"IT00555","Internal Medicine","Nephrology","Prevention","Apply","Author 15",2025-10-24,"Approved",66,5,FALSE,0,1,0.46,0.46
+"IT00556","Pediatrics","Growth & Development","Diagnosis","Understand","Author 01",2025-10-24,"Approved",58,4,TRUE,2,1,0.79,0.29
+"IT00557","Pediatrics","Neonatology","Clinical Reasoning","Apply","Author 12",2025-10-25,"Approved",93,5,FALSE,1,0,NA,NA
+"IT00558","Public Health","Epidemiology","Clinical Reasoning","Analyze","Author 15",2025-10-25,"Approved",128,5,FALSE,1,1,0.59,0.41
+"IT00559","Internal Medicine","Nephrology","Prevention","Apply","Author 04",2025-10-26,"Returned",98,5,FALSE,2,0,NA,NA
+"IT00560","Pediatrics","Immunization","Prevention","Understand","Author 13",2025-10-28,"Approved",51,5,FALSE,1,1,0.51,0.39
+"IT00561","Obstetrics & Gynecology","Gynecologic Oncology","Prevention","Remember","Author 07",2025-10-28,"Approved",63,5,FALSE,1,0,NA,NA
+"IT00562","Obstetrics & Gynecology","Labor & Delivery","Prevention","Analyze","Author 17",2025-10-28,"Approved",107,5,TRUE,0,1,0.53,0.48
+"IT00563","Public Health","Preventive Medicine","Diagnosis","Remember","Author 01",2025-10-29,"Approved",10,5,FALSE,2,1,0.66,0.22
+"IT00564","Pediatrics","Growth & Development","Clinical Reasoning","Apply","Author 09",2025-10-31,"Approved",116,5,FALSE,0,3,0.15,0.36
+"IT00565","Internal Medicine","Endocrinology","Diagnosis","Analyze","Author 15",2025-11-01,"Approved",81,5,FALSE,0,3,0.33,0.17
+"IT00566","Pediatrics","Growth & Development","Management","Apply","Author 11",2025-11-03,"Under review",114,5,FALSE,0,0,NA,NA
+"IT00567","Surgery","Trauma","Management","Understand","Author 11",2025-11-03,"Approved",51,5,FALSE,0,3,0.37,0.45
+"IT00568","Surgery","Trauma","Management","Apply","Author 07",2025-11-04,"Approved",79,5,FALSE,0,0,NA,NA
+"IT00569","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Apply","Author 18",2025-11-04,"Returned",94,5,FALSE,0,0,NA,NA
+"IT00570","Internal Medicine","Infectious Diseases","Prevention","Understand","Author 17",2025-11-04,"Approved",31,5,TRUE,1,2,0.8,0.38
+"IT00571","Pediatrics","Neonatology","Management","Apply","Author 18",2025-11-08,"Approved",115,4,FALSE,0,3,0.75,0.29
+"IT00572","Obstetrics & Gynecology","Prenatal Care","Prevention","Remember","Author 02",2025-11-08,"Under review",20,5,TRUE,2,0,NA,NA
+"IT00573","Internal Medicine","Infectious Diseases","Prevention","Understand","Author 07",2025-11-09,"Under review",54,5,FALSE,0,0,NA,NA
+"IT00574","Internal Medicine","Infectious Diseases","Management","Remember","Author 13",2025-11-09,"Approved",8,5,FALSE,0,2,0.38,0.42
+"IT00575","Internal Medicine","Cardiology","Management","Evaluate","Author 14",2025-11-10,"Returned",65,5,TRUE,0,0,NA,NA
+"IT00576","Internal Medicine","Pulmonology","Management","Understand","Author 01",2025-11-11,"Approved",28,5,FALSE,0,0,NA,NA
+"IT00577","Public Health","Primary Care","Diagnosis","Apply","Author 17",2025-11-12,"Approved",53,4,FALSE,3,3,0.74,0.1
+"IT00578","Pediatrics","Pediatric Infections","Prevention","Analyze","Author 11",2025-11-13,"Approved",118,5,FALSE,0,3,0.46,0.36
+"IT00579","Pediatrics","Immunization","Management","Remember","Author 04",2025-11-13,"Approved",19,5,TRUE,0,1,0.53,0.5
+"IT00580","Surgery","Trauma","Diagnosis","Evaluate","Author 02",2025-11-13,"Approved",41,5,TRUE,0,1,0.61,0.29
+"IT00581","Public Health","Epidemiology","Management","Apply","Author 18",2025-11-13,"Draft",67,5,FALSE,0,0,NA,NA
+"IT00582","Surgery","Trauma","Clinical Reasoning","Remember","Author 08",2025-11-14,"Approved",60,5,FALSE,1,0,NA,NA
+"IT00583","Internal Medicine","Pulmonology","Diagnosis","Understand","Author 01",2025-11-15,"Approved",8,5,TRUE,1,0,NA,NA
+"IT00584","Internal Medicine","Cardiology","Diagnosis","Analyze","Author 15",2025-11-15,"Approved",71,5,FALSE,1,0,NA,NA
+"IT00585","Public Health","Epidemiology","Clinical Reasoning","Apply","Author 08",2025-11-15,"Under review",99,5,FALSE,0,0,NA,NA
+"IT00586","Internal Medicine","Cardiology","Diagnosis","Apply","Author 16",2025-11-16,"Approved",51,5,FALSE,0,1,0.85,0.47
+"IT00587","Obstetrics & Gynecology","Prenatal Care","Management","Apply","Author 04",2025-11-17,"Approved",92,5,FALSE,0,3,0.34,0.36
+"IT00588","Obstetrics & Gynecology","Labor & Delivery","Diagnosis","Remember","Author 06",2025-11-18,"Approved",42,5,FALSE,0,0,NA,NA
+"IT00589","Surgery","Vascular Surgery","Clinical Reasoning","Understand","Author 07",2025-11-18,"Returned",44,5,TRUE,1,0,NA,NA
+"IT00590","Surgery","Perioperative Care","Diagnosis","Remember","Author 11",2025-11-18,"Approved",68,5,FALSE,0,3,0.65,0.4
+"IT00591","Public Health","Health Policy","Clinical Reasoning","Analyze","Author 11",2025-11-19,"Approved",75,5,FALSE,0,1,0.57,0.33
+"IT00592","Internal Medicine","Cardiology","Prevention","Apply","Author 18",2025-11-20,"Under review",75,5,FALSE,0,0,NA,NA
+"IT00593","Pediatrics","Pediatric Infections","Management","Apply","Author 05",2025-11-21,"Draft",67,4,FALSE,0,0,NA,NA
+"IT00594","Pediatrics","Neonatology","Diagnosis","Apply","Author 15",2025-11-23,"Returned",119,5,TRUE,1,0,NA,NA
+"IT00595","Pediatrics","Pediatric Infections","Clinical Reasoning","Evaluate","Author 07",2025-11-23,"Approved",67,5,FALSE,0,0,NA,NA
+"IT00596","Internal Medicine","Cardiology","Prevention","Understand","Author 10",2025-11-23,"Under review",55,5,FALSE,0,0,NA,NA
+"IT00597","Pediatrics","Growth & Development","Prevention","Remember","Author 01",2025-11-26,"Approved",42,5,FALSE,1,0,NA,NA
+"IT00598","Public Health","Health Policy","Clinical Reasoning","Apply","Author 08",2025-11-26,"Approved",88,5,FALSE,0,2,0.21,0.39
+"IT00599","Pediatrics","Pediatric Infections","Management","Remember","Author 02",2025-11-27,"Approved",91,4,FALSE,1,1,0.88,0.14
+"IT00600","Public Health","Preventive Medicine","Clinical Reasoning","Apply","Author 02",2025-11-27,"Approved",96,5,FALSE,0,2,0.69,0.15
+"IT00601","Pediatrics","Immunization","Prevention","Analyze","Author 07",2025-11-27,"Approved",73,5,FALSE,0,1,0.64,0.36
+"IT00602","Surgery","Trauma","Diagnosis","Apply","Author 11",2025-11-28,"Approved",40,5,FALSE,0,1,0.31,0.17
+"IT00603","Pediatrics","Growth & Development","Management","Remember","Author 17",2025-11-28,"Approved",31,5,FALSE,1,1,0.69,0.35
+"IT00604","Obstetrics & Gynecology","Gynecologic Oncology","Clinical Reasoning","Evaluate","Author 08",2025-11-28,"Approved",141,5,FALSE,0,1,0.24,0.32
+"IT00605","Internal Medicine","Pulmonology","Management","Analyze","Author 11",2025-11-29,"Approved",39,4,FALSE,3,1,0.8,0.24
+"IT00606","Internal Medicine","Infectious Diseases","Prevention","Apply","Author 07",2025-11-30,"Approved",121,4,FALSE,0,2,0.33,0.12
+"IT00607","Obstetrics & Gynecology","Prenatal Care","Prevention","Remember","Author 05",2025-11-30,"Returned",54,5,FALSE,1,0,NA,NA
+"IT00608","Surgery","Vascular Surgery","Management","Remember","Author 02",2025-12-01,"Approved",8,5,FALSE,1,0,NA,NA
+"IT00609","Internal Medicine","Pulmonology","Management","Analyze","Author 18",2025-12-01,"Returned",95,5,FALSE,1,0,NA,NA
+"IT00610","Public Health","Primary Care","Prevention","Apply","Author 14",2025-12-02,"Approved",158,5,FALSE,0,0,NA,NA
+"IT00611","Internal Medicine","Pulmonology","Diagnosis","Apply","Author 14",2025-12-03,"Returned",96,5,TRUE,0,0,NA,NA
+"IT00612","Surgery","Perioperative Care","Prevention","Evaluate","Author 14",2025-12-03,"Approved",139,4,FALSE,0,1,0.91,0.2
+"IT00613","Internal Medicine","Cardiology","Management","Apply","Author 01",2025-12-04,"Approved",50,5,FALSE,1,2,0.54,0.32
+"IT00614","Surgery","Vascular Surgery","Diagnosis","Remember","Author 02",2025-12-04,"Approved",30,4,FALSE,2,0,NA,NA
+"IT00615","Public Health","Primary Care","Diagnosis","Understand","Author 04",2025-12-05,"Approved",27,5,FALSE,0,0,NA,NA
+"IT00616","Surgery","Trauma","Diagnosis","Remember","Author 12",2025-12-05,"Approved",61,4,FALSE,2,2,0.76,0.44
+"IT00617","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Remember","Author 16",2025-12-05,"Approved",24,5,FALSE,0,0,NA,NA
+"IT00618","Surgery","Acute Abdomen","Management","Understand","Author 14",2025-12-06,"Approved",70,4,FALSE,0,2,0.63,0.12
+"IT00619","Obstetrics & Gynecology","Gynecologic Oncology","Clinical Reasoning","Apply","Author 03",2025-12-06,"Approved",70,5,TRUE,0,1,0.65,0.33
+"IT00620","Internal Medicine","Pulmonology","Clinical Reasoning","Understand","Author 14",2025-12-06,"Approved",33,4,FALSE,0,0,NA,NA
+"IT00621","Internal Medicine","Infectious Diseases","Clinical Reasoning","Apply","Author 11",2025-12-08,"Approved",110,5,TRUE,1,0,NA,NA
+"IT00622","Surgery","Trauma","Diagnosis","Understand","Author 10",2025-12-09,"Returned",74,4,FALSE,1,0,NA,NA
+"IT00623","Pediatrics","Pediatric Infections","Prevention","Analyze","Author 09",2025-12-09,"Approved",83,5,FALSE,0,0,NA,NA
+"IT00624","Surgery","Perioperative Care","Prevention","Understand","Author 12",2025-12-09,"Approved",8,5,FALSE,0,1,0.47,0.45
+"IT00625","Public Health","Health Policy","Prevention","Remember","Author 04",2025-12-10,"Retired",14,5,FALSE,2,0,NA,NA
+"IT00626","Pediatrics","Growth & Development","Management","Apply","Author 06",2025-12-10,"Approved",95,5,FALSE,2,1,0.18,0.38
+"IT00627","Public Health","Primary Care","Diagnosis","Analyze","Author 15",2025-12-12,"Approved",72,4,FALSE,0,2,0.34,0.41
+"IT00628","Public Health","Epidemiology","Management","Evaluate","Author 09",2025-12-12,"Returned",131,5,FALSE,1,0,NA,NA
+"IT00629","Internal Medicine","Endocrinology","Management","Apply","Author 16",2025-12-12,"Approved",130,5,FALSE,1,1,0.2,0.08
+"IT00630","Public Health","Preventive Medicine","Prevention","Remember","Author 13",2025-12-13,"Returned",8,5,FALSE,3,0,NA,NA
+"IT00631","Internal Medicine","Endocrinology","Diagnosis","Apply","Author 14",2025-12-13,"Approved",41,5,FALSE,2,1,0.83,0.17
+"IT00632","Pediatrics","Growth & Development","Prevention","Understand","Author 13",2025-12-14,"Approved",16,5,FALSE,2,2,0.57,0.49
+"IT00633","Internal Medicine","Infectious Diseases","Clinical Reasoning","Understand","Author 15",2025-12-14,"Approved",26,5,FALSE,0,0,NA,NA
+"IT00634","Public Health","Preventive Medicine","Clinical Reasoning","Remember","Author 14",2025-12-14,"Approved",8,5,FALSE,1,2,0.38,0.22
+"IT00635","Internal Medicine","Nephrology","Clinical Reasoning","Understand","Author 12",2025-12-15,"Approved",8,5,FALSE,1,2,0.43,0.22
+"IT00636","Obstetrics & Gynecology","Labor & Delivery","Prevention","Understand","Author 06",2025-12-15,"Approved",39,5,FALSE,0,0,NA,NA
+"IT00637","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Understand","Author 03",2025-12-15,"Approved",8,5,FALSE,2,1,0.62,0.23
+"IT00638","Surgery","Vascular Surgery","Diagnosis","Remember","Author 15",2025-12-16,"Approved",37,5,FALSE,0,1,0.89,0.38
+"IT00639","Surgery","Trauma","Clinical Reasoning","Analyze","Author 15",2025-12-16,"Approved",70,4,TRUE,1,1,0.67,0.3
+"IT00640","Surgery","Acute Abdomen","Management","Remember","Author 13",2025-12-17,"Approved",46,4,FALSE,2,0,NA,NA
+"IT00641","Public Health","Preventive Medicine","Prevention","Apply","Author 16",2025-12-17,"Draft",100,5,FALSE,0,0,NA,NA
+"IT00642","Surgery","Acute Abdomen","Diagnosis","Remember","Author 09",2025-12-17,"Approved",53,4,TRUE,2,2,0.75,0.19
+"IT00643","Surgery","Perioperative Care","Management","Remember","Author 16",2025-12-18,"Approved",13,5,TRUE,1,1,0.5,0.62
+"IT00644","Surgery","Acute Abdomen","Diagnosis","Remember","Author 01",2025-12-18,"Approved",80,5,FALSE,0,0,NA,NA
+"IT00645","Pediatrics","Neonatology","Diagnosis","Apply","Author 02",2025-12-18,"Approved",43,4,FALSE,0,0,NA,NA
+"IT00646","Public Health","Preventive Medicine","Diagnosis","Understand","Author 17",2025-12-19,"Returned",39,5,TRUE,0,0,NA,NA
+"IT00647","Public Health","Health Policy","Prevention","Apply","Author 09",2025-12-20,"Draft",63,5,FALSE,0,0,NA,NA
+"IT00648","Surgery","Perioperative Care","Prevention","Understand","Author 09",2025-12-20,"Approved",22,5,FALSE,0,2,0.55,0.24
+"IT00649","Obstetrics & Gynecology","Prenatal Care","Prevention","Apply","Author 06",2025-12-20,"Approved",70,5,FALSE,1,3,0.63,0.14
+"IT00650","Pediatrics","Pediatric Infections","Diagnosis","Remember","Author 18",2025-12-21,"Approved",66,5,TRUE,2,1,0.41,0.33
+"IT00651","Obstetrics & Gynecology","Family Planning","Diagnosis","Remember","Author 08",2025-12-21,"Approved",13,5,TRUE,0,0,NA,NA
+"IT00652","Obstetrics & Gynecology","Gynecologic Oncology","Management","Remember","Author 09",2025-12-21,"Approved",51,5,FALSE,1,1,0.77,0.19
+"IT00653","Public Health","Epidemiology","Prevention","Remember","Author 16",2025-12-23,"Approved",46,5,TRUE,1,1,0.76,0.26
+"IT00654","Internal Medicine","Infectious Diseases","Diagnosis","Understand","Author 13",2025-12-23,"Approved",81,5,FALSE,1,0,NA,NA
+"IT00655","Pediatrics","Neonatology","Clinical Reasoning","Apply","Author 06",2025-12-24,"Approved",107,5,TRUE,0,2,0.9,0.24
+"IT00656","Internal Medicine","Cardiology","Diagnosis","Remember","Author 08",2025-12-24,"Approved",8,5,FALSE,2,1,0.5,0.21
+"IT00657","Surgery","Vascular Surgery","Clinical Reasoning","Apply","Author 04",2025-12-24,"Retired",105,5,FALSE,1,0,NA,NA
+"IT00658","Surgery","Perioperative Care","Prevention","Remember","Author 03",2025-12-25,"Approved",65,5,FALSE,1,2,0.77,0.25
+"IT00659","Public Health","Epidemiology","Management","Remember","Author 16",2025-12-26,"Approved",13,5,FALSE,1,1,0.88,0.04
+"IT00660","Public Health","Health Policy","Diagnosis","Remember","Author 13",2025-12-27,"Approved",54,5,FALSE,0,0,NA,NA
+"IT00661","Internal Medicine","Nephrology","Prevention","Apply","Author 09",2025-12-29,"Returned",39,4,FALSE,1,0,NA,NA
+"IT00662","Pediatrics","Pediatric Infections","Clinical Reasoning","Apply","Author 08",2025-12-29,"Approved",75,5,FALSE,0,2,0.49,0.13
+"IT00663","Surgery","Vascular Surgery","Clinical Reasoning","Evaluate","Author 09",2025-12-30,"Approved",87,5,FALSE,2,1,0.66,-0.01
+"IT00664","Internal Medicine","Nephrology","Management","Evaluate","Author 14",2025-12-31,"Approved",96,5,FALSE,0,0,NA,NA
+"IT00665","Internal Medicine","Infectious Diseases","Diagnosis","Apply","Author 09",2026-01-01,"Approved",97,4,FALSE,1,2,0.44,0.51
+"IT00666","Pediatrics","Neonatology","Clinical Reasoning","Analyze","Author 07",2026-01-02,"Under review",108,5,FALSE,2,0,NA,NA
+"IT00667","Internal Medicine","Endocrinology","Prevention","Remember","Author 15",2026-01-02,"Approved",19,5,FALSE,3,2,0.31,0.31
+"IT00668","Public Health","Preventive Medicine","Prevention","Understand","Author 04",2026-01-03,"Approved",8,5,FALSE,0,2,0.59,0.22
+"IT00669","Internal Medicine","Endocrinology","Clinical Reasoning","Remember","Author 14",2026-01-04,"Approved",54,5,FALSE,3,0,NA,NA
+"IT00670","Obstetrics & Gynecology","Prenatal Care","Prevention","Apply","Author 14",2026-01-06,"Approved",84,5,FALSE,1,2,0.56,0.22
+"IT00671","Surgery","Perioperative Care","Management","Apply","Author 17",2026-01-06,"Approved",63,4,FALSE,1,2,0.7,0.27
+"IT00672","Obstetrics & Gynecology","Family Planning","Management","Remember","Author 07",2026-01-09,"Approved",62,5,FALSE,1,2,0.66,0.28
+"IT00673","Pediatrics","Pediatric Infections","Management","Evaluate","Author 12",2026-01-10,"Approved",80,5,FALSE,0,3,0.32,0.2
+"IT00674","Pediatrics","Growth & Development","Management","Apply","Author 18",2026-01-11,"Approved",99,5,FALSE,0,1,0.63,0.09
+"IT00675","Internal Medicine","Nephrology","Clinical Reasoning","Understand","Author 06",2026-01-11,"Approved",29,5,FALSE,0,2,0.47,0.42
+"IT00676","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Apply","Author 05",2026-01-12,"Approved",107,5,FALSE,0,1,0.57,0.58
+"IT00677","Obstetrics & Gynecology","Gynecologic Oncology","Prevention","Remember","Author 04",2026-01-13,"Retired",62,5,FALSE,2,0,NA,NA
+"IT00678","Public Health","Preventive Medicine","Clinical Reasoning","Analyze","Author 11",2026-01-13,"Draft",69,5,FALSE,1,0,NA,NA
+"IT00679","Obstetrics & Gynecology","Family Planning","Diagnosis","Apply","Author 05",2026-01-13,"Approved",83,5,FALSE,1,1,0.87,0.21
+"IT00680","Public Health","Preventive Medicine","Management","Remember","Author 08",2026-01-14,"Approved",56,5,FALSE,0,4,0.66,0.44
+"IT00681","Obstetrics & Gynecology","Gynecologic Oncology","Management","Remember","Author 04",2026-01-14,"Under review",53,5,FALSE,2,0,NA,NA
+"IT00682","Internal Medicine","Pulmonology","Clinical Reasoning","Understand","Author 11",2026-01-14,"Approved",39,5,TRUE,2,2,0.39,0.12
+"IT00683","Surgery","Perioperative Care","Diagnosis","Remember","Author 03",2026-01-15,"Approved",28,5,FALSE,1,1,0.57,0.2
+"IT00684","Pediatrics","Neonatology","Clinical Reasoning","Remember","Author 06",2026-01-16,"Approved",54,4,FALSE,1,1,0.62,0.04
+"IT00685","Public Health","Primary Care","Management","Apply","Author 18",2026-01-17,"Approved",58,5,FALSE,1,0,NA,NA
+"IT00686","Pediatrics","Pediatric Infections","Management","Analyze","Author 07",2026-01-17,"Retired",57,4,FALSE,1,0,NA,NA
+"IT00687","Internal Medicine","Cardiology","Clinical Reasoning","Evaluate","Author 07",2026-01-17,"Approved",47,5,FALSE,0,2,0.77,0.4
+"IT00688","Pediatrics","Growth & Development","Diagnosis","Evaluate","Author 09",2026-01-17,"Approved",105,4,FALSE,0,4,0.2,0.26
+"IT00689","Internal Medicine","Nephrology","Clinical Reasoning","Analyze","Author 09",2026-01-17,"Approved",132,5,FALSE,2,0,NA,NA
+"IT00690","Internal Medicine","Cardiology","Prevention","Remember","Author 06",2026-01-18,"Approved",45,5,FALSE,1,0,NA,NA
+"IT00691","Obstetrics & Gynecology","Labor & Delivery","Prevention","Remember","Author 18",2026-01-18,"Approved",68,5,FALSE,1,1,0.36,0.21
+"IT00692","Pediatrics","Neonatology","Clinical Reasoning","Understand","Author 17",2026-01-18,"Approved",59,4,FALSE,0,3,0.49,0.2
+"IT00693","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Understand","Author 10",2026-01-19,"Approved",15,5,FALSE,1,1,0.48,0.32
+"IT00694","Pediatrics","Pediatric Infections","Management","Apply","Author 15",2026-01-20,"Approved",89,5,FALSE,0,0,NA,NA
+"IT00695","Public Health","Health Policy","Clinical Reasoning","Understand","Author 07",2026-01-20,"Approved",8,5,FALSE,0,0,NA,NA
+"IT00696","Obstetrics & Gynecology","Labor & Delivery","Diagnosis","Understand","Author 17",2026-01-20,"Approved",59,5,FALSE,0,1,0.88,0.21
+"IT00697","Pediatrics","Pediatric Infections","Prevention","Understand","Author 09",2026-01-20,"Approved",56,5,FALSE,0,0,NA,NA
+"IT00698","Internal Medicine","Pulmonology","Clinical Reasoning","Evaluate","Author 17",2026-01-20,"Approved",94,5,TRUE,0,0,NA,NA
+"IT00699","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Understand","Author 18",2026-01-21,"Under review",32,5,FALSE,0,0,NA,NA
+"IT00700","Pediatrics","Neonatology","Management","Analyze","Author 14",2026-01-21,"Approved",96,5,FALSE,0,2,0.9,0.43
+"IT00701","Public Health","Preventive Medicine","Prevention","Analyze","Author 17",2026-01-22,"Approved",48,5,FALSE,0,2,0.5,-0.05
+"IT00702","Pediatrics","Neonatology","Diagnosis","Apply","Author 16",2026-01-22,"Approved",93,4,FALSE,0,2,0.86,0.13
+"IT00703","Internal Medicine","Pulmonology","Management","Remember","Author 11",2026-01-23,"Returned",90,5,FALSE,0,0,NA,NA
+"IT00704","Internal Medicine","Nephrology","Prevention","Evaluate","Author 13",2026-01-23,"Approved",66,5,FALSE,1,5,0.6,0.08
+"IT00705","Public Health","Epidemiology","Diagnosis","Understand","Author 01",2026-01-23,"Returned",8,5,FALSE,2,0,NA,NA
+"IT00706","Pediatrics","Immunization","Clinical Reasoning","Remember","Author 06",2026-01-23,"Approved",17,4,FALSE,2,0,NA,NA
+"IT00707","Internal Medicine","Nephrology","Diagnosis","Apply","Author 14",2026-01-23,"Approved",112,4,FALSE,0,0,NA,NA
+"IT00708","Surgery","Perioperative Care","Management","Understand","Author 10",2026-01-24,"Retired",39,5,TRUE,0,0,NA,NA
+"IT00709","Internal Medicine","Endocrinology","Management","Apply","Author 06",2026-01-24,"Approved",63,5,FALSE,0,0,NA,NA
+"IT00710","Pediatrics","Neonatology","Clinical Reasoning","Apply","Author 17",2026-01-26,"Approved",58,5,FALSE,0,2,0.24,0.12
+"IT00711","Pediatrics","Pediatric Infections","Management","Analyze","Author 13",2026-01-26,"Approved",70,5,FALSE,0,0,NA,NA
+"IT00712","Obstetrics & Gynecology","Gynecologic Oncology","Management","Understand","Author 15",2026-01-27,"Approved",68,5,FALSE,1,1,0.75,0.59
+"IT00713","Surgery","Perioperative Care","Management","Evaluate","Author 17",2026-01-29,"Approved",99,5,FALSE,0,3,0.32,0.26
+"IT00714","Internal Medicine","Cardiology","Management","Remember","Author 08",2026-01-29,"Returned",15,4,TRUE,1,0,NA,NA
+"IT00715","Internal Medicine","Pulmonology","Clinical Reasoning","Understand","Author 09",2026-01-29,"Approved",59,5,FALSE,1,2,0.56,0.21
+"IT00716","Public Health","Preventive Medicine","Clinical Reasoning","Evaluate","Author 18",2026-01-30,"Under review",66,5,FALSE,2,0,NA,NA
+"IT00717","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 16",2026-01-30,"Approved",27,5,FALSE,0,0,NA,NA
+"IT00718","Pediatrics","Pediatric Infections","Prevention","Remember","Author 08",2026-01-31,"Approved",55,4,FALSE,2,2,0.31,0.41
+"IT00719","Internal Medicine","Infectious Diseases","Management","Apply","Author 12",2026-02-01,"Approved",108,5,FALSE,0,2,0.86,0.26
+"IT00720","Obstetrics & Gynecology","Gynecologic Oncology","Clinical Reasoning","Understand","Author 05",2026-02-03,"Approved",8,5,FALSE,0,2,0.74,0.17
+"IT00721","Public Health","Preventive Medicine","Diagnosis","Understand","Author 01",2026-02-03,"Approved",73,5,FALSE,0,1,0.63,0.46
+"IT00722","Pediatrics","Immunization","Prevention","Remember","Author 10",2026-02-04,"Approved",50,5,FALSE,1,0,NA,NA
+"IT00723","Internal Medicine","Endocrinology","Diagnosis","Remember","Author 03",2026-02-04,"Returned",31,5,FALSE,1,0,NA,NA
+"IT00724","Surgery","Perioperative Care","Diagnosis","Apply","Author 05",2026-02-04,"Approved",58,5,FALSE,1,1,0.69,0.23
+"IT00725","Internal Medicine","Pulmonology","Prevention","Apply","Author 02",2026-02-04,"Approved",76,5,FALSE,1,2,0.55,0.38
+"IT00726","Obstetrics & Gynecology","Labor & Delivery","Management","Analyze","Author 16",2026-02-04,"Approved",79,5,FALSE,1,1,0.58,0.32
+"IT00727","Internal Medicine","Endocrinology","Management","Analyze","Author 11",2026-02-05,"Approved",60,5,TRUE,1,3,0.61,0.27
+"IT00728","Internal Medicine","Infectious Diseases","Prevention","Apply","Author 10",2026-02-05,"Returned",90,5,FALSE,0,0,NA,NA
+"IT00729","Public Health","Health Policy","Prevention","Analyze","Author 05",2026-02-05,"Returned",110,5,FALSE,0,0,NA,NA
+"IT00730","Pediatrics","Growth & Development","Diagnosis","Understand","Author 04",2026-02-05,"Approved",60,5,FALSE,0,4,0.83,0.35
+"IT00731","Obstetrics & Gynecology","Family Planning","Prevention","Apply","Author 06",2026-02-05,"Approved",53,5,FALSE,2,1,0.61,0.3
+"IT00732","Pediatrics","Growth & Development","Management","Remember","Author 11",2026-02-06,"Returned",27,5,FALSE,0,0,NA,NA
+"IT00733","Internal Medicine","Nephrology","Clinical Reasoning","Apply","Author 05",2026-02-06,"Retired",54,5,FALSE,1,0,NA,NA
+"IT00734","Internal Medicine","Endocrinology","Clinical Reasoning","Remember","Author 09",2026-02-06,"Approved",44,5,FALSE,0,0,NA,NA
+"IT00735","Surgery","Vascular Surgery","Prevention","Remember","Author 06",2026-02-06,"Returned",37,5,FALSE,0,0,NA,NA
+"IT00736","Obstetrics & Gynecology","Prenatal Care","Management","Remember","Author 03",2026-02-07,"Retired",69,5,FALSE,0,0,NA,NA
+"IT00737","Obstetrics & Gynecology","Prenatal Care","Management","Remember","Author 13",2026-02-07,"Approved",11,5,FALSE,0,0,NA,NA
+"IT00738","Internal Medicine","Cardiology","Diagnosis","Understand","Author 10",2026-02-07,"Returned",8,5,FALSE,1,0,NA,NA
+"IT00739","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Understand","Author 03",2026-02-09,"Under review",17,5,FALSE,1,0,NA,NA
+"IT00740","Surgery","Vascular Surgery","Diagnosis","Remember","Author 16",2026-02-09,"Approved",56,5,FALSE,0,1,0.7,0.27
+"IT00741","Obstetrics & Gynecology","Family Planning","Diagnosis","Remember","Author 03",2026-02-10,"Approved",45,4,FALSE,0,0,NA,NA
+"IT00742","Internal Medicine","Cardiology","Diagnosis","Understand","Author 18",2026-02-10,"Approved",65,5,FALSE,1,0,NA,NA
+"IT00743","Surgery","Perioperative Care","Clinical Reasoning","Apply","Author 01",2026-02-11,"Approved",75,5,FALSE,0,1,0.75,0.42
+"IT00744","Internal Medicine","Pulmonology","Prevention","Understand","Author 05",2026-02-12,"Approved",13,5,FALSE,0,1,0.58,0.49
+"IT00745","Surgery","Trauma","Diagnosis","Understand","Author 15",2026-02-12,"Approved",102,5,TRUE,0,3,0.24,0.17
+"IT00746","Surgery","Vascular Surgery","Management","Remember","Author 02",2026-02-13,"Approved",22,4,FALSE,0,3,0.56,0.23
+"IT00747","Internal Medicine","Nephrology","Prevention","Analyze","Author 17",2026-02-14,"Approved",75,5,FALSE,0,3,0.12,0.25
+"IT00748","Public Health","Epidemiology","Management","Remember","Author 14",2026-02-14,"Returned",76,5,FALSE,2,0,NA,NA
+"IT00749","Public Health","Preventive Medicine","Diagnosis","Analyze","Author 14",2026-02-14,"Approved",36,4,FALSE,1,1,0.75,0.28
+"IT00750","Public Health","Primary Care","Diagnosis","Evaluate","Author 11",2026-02-14,"Approved",78,5,FALSE,0,2,0.2,0.33
+"IT00751","Pediatrics","Pediatric Infections","Clinical Reasoning","Analyze","Author 05",2026-02-14,"Returned",98,5,FALSE,0,0,NA,NA
+"IT00752","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 04",2026-02-15,"Approved",74,5,FALSE,1,2,0.15,0.05
+"IT00753","Obstetrics & Gynecology","Prenatal Care","Management","Apply","Author 01",2026-02-15,"Approved",88,5,TRUE,1,1,0.52,0.29
+"IT00754","Surgery","Perioperative Care","Diagnosis","Apply","Author 04",2026-02-16,"Approved",90,5,TRUE,0,2,0.51,0.22
+"IT00755","Internal Medicine","Endocrinology","Clinical Reasoning","Analyze","Author 08",2026-02-18,"Returned",50,5,FALSE,0,0,NA,NA
+"IT00756","Surgery","Perioperative Care","Diagnosis","Remember","Author 11",2026-02-19,"Approved",66,5,FALSE,0,2,0.44,0.21
+"IT00757","Pediatrics","Neonatology","Prevention","Remember","Author 13",2026-02-19,"Under review",20,5,FALSE,0,0,NA,NA
+"IT00758","Internal Medicine","Nephrology","Diagnosis","Apply","Author 06",2026-02-21,"Approved",76,4,FALSE,0,1,0.64,0.4
+"IT00759","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Remember","Author 10",2026-02-21,"Returned",39,4,FALSE,1,0,NA,NA
+"IT00760","Internal Medicine","Pulmonology","Clinical Reasoning","Apply","Author 18",2026-02-21,"Approved",79,4,FALSE,0,1,0.77,0.2
+"IT00761","Surgery","Vascular Surgery","Clinical Reasoning","Remember","Author 05",2026-02-21,"Retired",59,5,FALSE,1,0,NA,NA
+"IT00762","Pediatrics","Growth & Development","Diagnosis","Understand","Author 09",2026-02-21,"Approved",13,4,FALSE,0,2,0.33,0.22
+"IT00763","Surgery","Acute Abdomen","Prevention","Apply","Author 09",2026-02-22,"Approved",76,5,FALSE,0,0,NA,NA
+"IT00764","Public Health","Preventive Medicine","Prevention","Understand","Author 09",2026-02-22,"Approved",84,5,FALSE,0,1,0.46,0.28
+"IT00765","Internal Medicine","Infectious Diseases","Clinical Reasoning","Understand","Author 07",2026-02-23,"Approved",56,5,TRUE,0,1,0.74,0.51
+"IT00766","Internal Medicine","Endocrinology","Diagnosis","Apply","Author 10",2026-02-23,"Approved",79,5,TRUE,0,0,NA,NA
+"IT00767","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Analyze","Author 05",2026-02-24,"Approved",88,5,FALSE,0,1,0.44,0.28
+"IT00768","Public Health","Epidemiology","Management","Apply","Author 10",2026-02-25,"Approved",67,5,FALSE,0,3,0.28,0.02
+"IT00769","Pediatrics","Pediatric Infections","Management","Analyze","Author 16",2026-02-25,"Approved",126,5,TRUE,0,2,0.66,0.39
+"IT00770","Internal Medicine","Nephrology","Management","Remember","Author 15",2026-02-26,"Draft",29,5,FALSE,0,0,NA,NA
+"IT00771","Internal Medicine","Cardiology","Management","Apply","Author 08",2026-02-26,"Approved",65,5,FALSE,0,1,0.57,0.22
+"IT00772","Public Health","Health Policy","Management","Apply","Author 02",2026-02-28,"Approved",73,5,FALSE,0,0,NA,NA
+"IT00773","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Apply","Author 07",2026-02-28,"Approved",64,4,FALSE,0,0,NA,NA
+"IT00774","Internal Medicine","Endocrinology","Prevention","Remember","Author 04",2026-02-28,"Approved",34,5,FALSE,2,2,0.73,0.23
+"IT00775","Surgery","Acute Abdomen","Diagnosis","Apply","Author 09",2026-03-02,"Draft",73,5,FALSE,0,0,NA,NA
+"IT00776","Internal Medicine","Infectious Diseases","Diagnosis","Apply","Author 17",2026-03-02,"Approved",105,5,FALSE,0,2,0.54,0.21
+"IT00777","Internal Medicine","Pulmonology","Prevention","Understand","Author 13",2026-03-02,"Returned",38,5,FALSE,1,0,NA,NA
+"IT00778","Obstetrics & Gynecology","Labor & Delivery","Management","Understand","Author 16",2026-03-02,"Under review",8,4,FALSE,0,0,NA,NA
+"IT00779","Surgery","Trauma","Diagnosis","Analyze","Author 15",2026-03-03,"Under review",122,4,FALSE,0,0,NA,NA
+"IT00780","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Understand","Author 11",2026-03-03,"Approved",59,5,FALSE,0,2,0.73,0.2
+"IT00781","Internal Medicine","Cardiology","Clinical Reasoning","Remember","Author 05",2026-03-03,"Approved",41,5,FALSE,3,2,0.69,0.12
+"IT00782","Public Health","Primary Care","Management","Apply","Author 02",2026-03-03,"Under review",98,5,FALSE,0,0,NA,NA
+"IT00783","Public Health","Primary Care","Clinical Reasoning","Remember","Author 02",2026-03-04,"Draft",63,5,FALSE,0,0,NA,NA
+"IT00784","Internal Medicine","Infectious Diseases","Management","Analyze","Author 17",2026-03-04,"Under review",95,5,FALSE,0,0,NA,NA
+"IT00785","Internal Medicine","Nephrology","Diagnosis","Remember","Author 04",2026-03-05,"Approved",64,5,FALSE,2,1,0.71,0.2
+"IT00786","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Remember","Author 05",2026-03-05,"Approved",54,5,FALSE,3,0,NA,NA
+"IT00787","Surgery","Acute Abdomen","Prevention","Remember","Author 02",2026-03-06,"Approved",32,5,FALSE,1,2,0.18,0.28
+"IT00788","Pediatrics","Growth & Development","Prevention","Remember","Author 17",2026-03-08,"Under review",65,5,FALSE,2,0,NA,NA
+"IT00789","Pediatrics","Immunization","Clinical Reasoning","Remember","Author 01",2026-03-08,"Returned",8,4,FALSE,2,0,NA,NA
+"IT00790","Pediatrics","Pediatric Infections","Management","Understand","Author 02",2026-03-08,"Under review",37,4,FALSE,0,0,NA,NA
+"IT00791","Internal Medicine","Cardiology","Prevention","Remember","Author 13",2026-03-09,"Under review",24,5,FALSE,1,0,NA,NA
+"IT00792","Internal Medicine","Infectious Diseases","Prevention","Apply","Author 15",2026-03-10,"Draft",104,5,FALSE,1,0,NA,NA
+"IT00793","Surgery","Acute Abdomen","Clinical Reasoning","Understand","Author 05",2026-03-11,"Returned",40,5,FALSE,0,0,NA,NA
+"IT00794","Internal Medicine","Endocrinology","Diagnosis","Apply","Author 07",2026-03-11,"Under review",116,5,TRUE,3,0,NA,NA
+"IT00795","Pediatrics","Growth & Development","Prevention","Remember","Author 17",2026-03-11,"Approved",38,4,FALSE,0,2,0.71,0.24
+"IT00796","Obstetrics & Gynecology","Gynecologic Oncology","Clinical Reasoning","Analyze","Author 13",2026-03-11,"Under review",93,5,FALSE,1,0,NA,NA
+"IT00797","Public Health","Epidemiology","Diagnosis","Apply","Author 05",2026-03-11,"Returned",99,5,TRUE,0,0,NA,NA
+"IT00798","Surgery","Acute Abdomen","Diagnosis","Understand","Author 09",2026-03-11,"Approved",72,5,FALSE,0,0,NA,NA
+"IT00799","Internal Medicine","Pulmonology","Clinical Reasoning","Remember","Author 05",2026-03-12,"Approved",21,5,FALSE,1,0,NA,NA
+"IT00800","Pediatrics","Pediatric Infections","Management","Understand","Author 09",2026-03-12,"Under review",80,5,FALSE,1,0,NA,NA
+"IT00801","Public Health","Health Policy","Management","Remember","Author 16",2026-03-13,"Draft",18,5,TRUE,0,0,NA,NA
+"IT00802","Pediatrics","Immunization","Prevention","Understand","Author 04",2026-03-14,"Under review",8,4,FALSE,0,0,NA,NA
+"IT00803","Obstetrics & Gynecology","Family Planning","Prevention","Apply","Author 15",2026-03-15,"Approved",115,5,FALSE,0,2,0.62,0.18
+"IT00804","Obstetrics & Gynecology","Gynecologic Oncology","Management","Remember","Author 08",2026-03-15,"Returned",47,5,FALSE,0,0,NA,NA
+"IT00805","Internal Medicine","Endocrinology","Clinical Reasoning","Remember","Author 02",2026-03-16,"Under review",23,5,FALSE,0,0,NA,NA
+"IT00806","Public Health","Health Policy","Management","Understand","Author 09",2026-03-16,"Draft",68,5,FALSE,0,0,NA,NA
+"IT00807","Pediatrics","Immunization","Management","Remember","Author 07",2026-03-16,"Draft",49,5,TRUE,1,0,NA,NA
+"IT00808","Public Health","Preventive Medicine","Clinical Reasoning","Understand","Author 10",2026-03-17,"Draft",15,5,FALSE,0,0,NA,NA
+"IT00809","Internal Medicine","Cardiology","Clinical Reasoning","Evaluate","Author 18",2026-03-17,"Under review",93,5,FALSE,1,0,NA,NA
+"IT00810","Obstetrics & Gynecology","Labor & Delivery","Diagnosis","Remember","Author 10",2026-03-18,"Approved",34,4,TRUE,2,2,0.41,0.23
+"IT00811","Internal Medicine","Cardiology","Diagnosis","Apply","Author 12",2026-03-19,"Under review",58,5,FALSE,0,0,NA,NA
+"IT00812","Obstetrics & Gynecology","Prenatal Care","Management","Remember","Author 12",2026-03-19,"Draft",51,5,FALSE,1,0,NA,NA
+"IT00813","Public Health","Epidemiology","Prevention","Remember","Author 10",2026-03-19,"Under review",42,4,FALSE,1,0,NA,NA
+"IT00814","Obstetrics & Gynecology","Labor & Delivery","Prevention","Apply","Author 05",2026-03-19,"Approved",91,5,TRUE,0,1,0.86,0.33
+"IT00815","Public Health","Primary Care","Diagnosis","Apply","Author 06",2026-03-20,"Approved",67,5,FALSE,0,0,NA,NA
+"IT00816","Obstetrics & Gynecology","Prenatal Care","Management","Apply","Author 12",2026-03-20,"Under review",84,4,FALSE,1,0,NA,NA
+"IT00817","Surgery","Perioperative Care","Clinical Reasoning","Understand","Author 15",2026-03-21,"Under review",26,5,FALSE,0,0,NA,NA
+"IT00818","Internal Medicine","Pulmonology","Prevention","Analyze","Author 11",2026-03-21,"Under review",62,5,FALSE,0,0,NA,NA
+"IT00819","Internal Medicine","Infectious Diseases","Management","Understand","Author 08",2026-03-22,"Draft",32,4,FALSE,0,0,NA,NA
+"IT00820","Surgery","Perioperative Care","Clinical Reasoning","Apply","Author 01",2026-03-23,"Approved",52,4,FALSE,0,2,0.42,0
+"IT00821","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Apply","Author 07",2026-03-24,"Under review",87,5,FALSE,0,0,NA,NA
+"IT00822","Internal Medicine","Pulmonology","Clinical Reasoning","Understand","Author 02",2026-03-24,"Under review",8,5,FALSE,0,0,NA,NA
+"IT00823","Internal Medicine","Cardiology","Management","Remember","Author 01",2026-03-25,"Approved",34,4,FALSE,1,0,NA,NA
+"IT00824","Pediatrics","Neonatology","Clinical Reasoning","Understand","Author 06",2026-03-25,"Under review",36,5,FALSE,0,0,NA,NA
+"IT00825","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Apply","Author 05",2026-03-25,"Returned",20,5,FALSE,0,0,NA,NA
+"IT00826","Public Health","Health Policy","Diagnosis","Remember","Author 10",2026-03-26,"Under review",85,5,FALSE,0,0,NA,NA
+"IT00827","Obstetrics & Gynecology","Family Planning","Prevention","Analyze","Author 16",2026-03-27,"Under review",97,5,FALSE,1,0,NA,NA
+"IT00828","Internal Medicine","Infectious Diseases","Diagnosis","Remember","Author 07",2026-03-27,"Draft",16,5,FALSE,2,0,NA,NA
+"IT00829","Surgery","Trauma","Diagnosis","Apply","Author 17",2026-03-28,"Approved",131,5,FALSE,0,1,0.76,0.42
+"IT00830","Internal Medicine","Nephrology","Management","Understand","Author 04",2026-03-28,"Under review",73,5,FALSE,0,0,NA,NA
+"IT00831","Pediatrics","Immunization","Diagnosis","Understand","Author 13",2026-03-29,"Under review",8,5,TRUE,0,0,NA,NA
+"IT00832","Pediatrics","Pediatric Infections","Clinical Reasoning","Understand","Author 16",2026-03-29,"Under review",34,5,FALSE,0,0,NA,NA
+"IT00833","Public Health","Preventive Medicine","Diagnosis","Apply","Author 10",2026-03-29,"Draft",64,5,FALSE,1,0,NA,NA
+"IT00834","Surgery","Perioperative Care","Prevention","Understand","Author 11",2026-03-29,"Under review",49,5,FALSE,0,0,NA,NA
+"IT00835","Public Health","Primary Care","Clinical Reasoning","Understand","Author 05",2026-03-30,"Draft",8,4,FALSE,0,0,NA,NA
+"IT00836","Public Health","Primary Care","Diagnosis","Understand","Author 11",2026-03-30,"Under review",74,5,FALSE,0,0,NA,NA
+"IT00837","Surgery","Vascular Surgery","Prevention","Evaluate","Author 03",2026-03-31,"Draft",54,4,FALSE,0,0,NA,NA
+"IT00838","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Apply","Author 15",2026-03-31,"Returned",74,4,FALSE,0,0,NA,NA
+"IT00839","Pediatrics","Immunization","Clinical Reasoning","Understand","Author 09",2026-03-31,"Approved",45,5,FALSE,0,2,0.46,0.06
+"IT00840","Surgery","Trauma","Diagnosis","Remember","Author 10",2026-04-01,"Under review",68,5,FALSE,2,0,NA,NA
+"IT00841","Obstetrics & Gynecology","Labor & Delivery","Management","Remember","Author 07",2026-04-01,"Under review",26,5,FALSE,0,0,NA,NA
+"IT00842","Public Health","Epidemiology","Prevention","Understand","Author 07",2026-04-01,"Under review",29,5,FALSE,0,0,NA,NA
+"IT00843","Surgery","Trauma","Diagnosis","Understand","Author 18",2026-04-02,"Approved",67,5,FALSE,0,1,0.79,0.3
+"IT00844","Public Health","Health Policy","Prevention","Remember","Author 11",2026-04-02,"Under review",80,5,FALSE,1,0,NA,NA
+"IT00845","Public Health","Epidemiology","Clinical Reasoning","Apply","Author 08",2026-04-02,"Under review",107,5,FALSE,0,0,NA,NA
+"IT00846","Surgery","Trauma","Management","Apply","Author 15",2026-04-03,"Under review",88,5,FALSE,0,0,NA,NA
+"IT00847","Internal Medicine","Nephrology","Prevention","Apply","Author 03",2026-04-04,"Under review",88,5,FALSE,0,0,NA,NA
+"IT00848","Surgery","Vascular Surgery","Diagnosis","Remember","Author 05",2026-04-04,"Under review",17,4,TRUE,0,0,NA,NA
+"IT00849","Pediatrics","Immunization","Diagnosis","Remember","Author 14",2026-04-05,"Under review",8,4,FALSE,0,0,NA,NA
+"IT00850","Internal Medicine","Endocrinology","Diagnosis","Remember","Author 05",2026-04-05,"Under review",71,5,FALSE,0,0,NA,NA
+"IT00851","Public Health","Epidemiology","Clinical Reasoning","Analyze","Author 14",2026-04-05,"Under review",85,5,FALSE,1,0,NA,NA
+"IT00852","Internal Medicine","Infectious Diseases","Clinical Reasoning","Apply","Author 10",2026-04-06,"Approved",116,5,FALSE,1,0,NA,NA
+"IT00853","Internal Medicine","Pulmonology","Diagnosis","Apply","Author 17",2026-04-06,"Under review",135,5,FALSE,0,0,NA,NA
+"IT00854","Pediatrics","Pediatric Infections","Management","Evaluate","Author 03",2026-04-07,"Under review",86,4,TRUE,0,0,NA,NA
+"IT00855","Internal Medicine","Pulmonology","Clinical Reasoning","Understand","Author 10",2026-04-09,"Under review",48,5,FALSE,0,0,NA,NA
+"IT00856","Obstetrics & Gynecology","Gynecologic Oncology","Prevention","Apply","Author 07",2026-04-09,"Draft",60,5,FALSE,0,0,NA,NA
+"IT00857","Obstetrics & Gynecology","Labor & Delivery","Prevention","Apply","Author 15",2026-04-09,"Under review",96,4,FALSE,0,0,NA,NA
+"IT00858","Surgery","Perioperative Care","Prevention","Remember","Author 02",2026-04-10,"Approved",25,5,FALSE,1,0,NA,NA
+"IT00859","Internal Medicine","Pulmonology","Management","Evaluate","Author 05",2026-04-10,"Under review",61,5,FALSE,0,0,NA,NA
+"IT00860","Surgery","Trauma","Clinical Reasoning","Remember","Author 03",2026-04-11,"Under review",33,5,FALSE,0,0,NA,NA
+"IT00861","Pediatrics","Neonatology","Management","Apply","Author 11",2026-04-11,"Approved",57,5,FALSE,2,3,0.82,0.32
+"IT00862","Pediatrics","Pediatric Infections","Diagnosis","Remember","Author 06",2026-04-12,"Draft",42,5,FALSE,0,0,NA,NA
+"IT00863","Obstetrics & Gynecology","Prenatal Care","Management","Understand","Author 08",2026-04-13,"Approved",39,5,FALSE,0,0,NA,NA
+"IT00864","Pediatrics","Pediatric Infections","Management","Apply","Author 13",2026-04-13,"Under review",103,5,FALSE,0,0,NA,NA
+"IT00865","Public Health","Epidemiology","Prevention","Apply","Author 04",2026-04-13,"Returned",95,5,FALSE,0,0,NA,NA
+"IT00866","Surgery","Perioperative Care","Management","Apply","Author 08",2026-04-14,"Under review",53,5,FALSE,0,0,NA,NA
+"IT00867","Surgery","Vascular Surgery","Diagnosis","Apply","Author 13",2026-04-15,"Approved",28,5,TRUE,0,0,NA,NA
+"IT00868","Internal Medicine","Cardiology","Management","Apply","Author 05",2026-04-15,"Approved",112,5,TRUE,1,5,0.4,0.44
+"IT00869","Obstetrics & Gynecology","Gynecologic Oncology","Management","Apply","Author 03",2026-04-16,"Approved",106,5,TRUE,0,1,0.48,0.1
+"IT00870","Obstetrics & Gynecology","Family Planning","Management","Understand","Author 13",2026-04-16,"Under review",47,4,FALSE,0,0,NA,NA
+"IT00871","Internal Medicine","Nephrology","Diagnosis","Analyze","Author 09",2026-04-16,"Approved",57,5,FALSE,0,3,0.7,0.3
+"IT00872","Public Health","Preventive Medicine","Prevention","Remember","Author 10",2026-04-17,"Draft",13,5,FALSE,2,0,NA,NA
+"IT00873","Surgery","Acute Abdomen","Prevention","Analyze","Author 16",2026-04-18,"Under review",67,5,FALSE,0,0,NA,NA
+"IT00874","Internal Medicine","Endocrinology","Management","Understand","Author 07",2026-04-19,"Draft",37,5,FALSE,1,0,NA,NA
+"IT00875","Internal Medicine","Pulmonology","Prevention","Apply","Author 18",2026-04-19,"Draft",122,5,FALSE,1,0,NA,NA
+"IT00876","Surgery","Acute Abdomen","Management","Apply","Author 13",2026-04-19,"Returned",123,4,FALSE,0,0,NA,NA
+"IT00877","Internal Medicine","Endocrinology","Clinical Reasoning","Apply","Author 03",2026-04-19,"Under review",94,5,FALSE,0,0,NA,NA
+"IT00878","Surgery","Vascular Surgery","Clinical Reasoning","Apply","Author 06",2026-04-20,"Approved",59,5,FALSE,2,2,0.33,0.5
+"IT00879","Public Health","Health Policy","Management","Analyze","Author 14",2026-04-21,"Under review",108,5,FALSE,0,0,NA,NA
+"IT00880","Internal Medicine","Endocrinology","Diagnosis","Understand","Author 12",2026-04-21,"Under review",28,5,FALSE,0,0,NA,NA
+"IT00881","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Analyze","Author 01",2026-04-21,"Under review",51,5,FALSE,1,0,NA,NA
+"IT00882","Obstetrics & Gynecology","Gynecologic Oncology","Prevention","Remember","Author 09",2026-04-21,"Under review",11,5,TRUE,2,0,NA,NA
+"IT00883","Obstetrics & Gynecology","Family Planning","Prevention","Apply","Author 09",2026-04-23,"Draft",69,5,FALSE,0,0,NA,NA
+"IT00884","Internal Medicine","Nephrology","Prevention","Analyze","Author 10",2026-04-23,"Approved",77,4,FALSE,0,1,0.7,0.11
+"IT00885","Internal Medicine","Endocrinology","Diagnosis","Apply","Author 05",2026-04-23,"Under review",119,4,FALSE,1,0,NA,NA
+"IT00886","Pediatrics","Immunization","Prevention","Remember","Author 10",2026-04-24,"Returned",55,5,FALSE,1,0,NA,NA
+"IT00887","Internal Medicine","Infectious Diseases","Clinical Reasoning","Analyze","Author 16",2026-04-24,"Draft",80,5,FALSE,0,0,NA,NA
+"IT00888","Internal Medicine","Nephrology","Prevention","Apply","Author 17",2026-04-25,"Approved",129,5,FALSE,0,2,0.69,0.53
+"IT00889","Surgery","Perioperative Care","Management","Understand","Author 07",2026-04-25,"Under review",74,5,FALSE,1,0,NA,NA
+"IT00890","Internal Medicine","Pulmonology","Diagnosis","Remember","Author 17",2026-04-25,"Draft",35,5,TRUE,0,0,NA,NA
+"IT00891","Internal Medicine","Pulmonology","Management","Remember","Author 11",2026-04-25,"Draft",28,5,FALSE,1,0,NA,NA
+"IT00892","Internal Medicine","Nephrology","Prevention","Apply","Author 15",2026-04-26,"Draft",113,5,FALSE,1,0,NA,NA
+"IT00893","Public Health","Health Policy","Management","Understand","Author 11",2026-04-27,"Draft",112,5,FALSE,1,0,NA,NA
+"IT00894","Pediatrics","Growth & Development","Diagnosis","Remember","Author 03",2026-04-28,"Under review",8,5,FALSE,1,0,NA,NA
+"IT00895","Surgery","Trauma","Diagnosis","Remember","Author 05",2026-04-30,"Approved",21,5,FALSE,2,2,0.95,0.35
+"IT00896","Obstetrics & Gynecology","Prenatal Care","Management","Analyze","Author 10",2026-04-30,"Under review",73,4,FALSE,0,0,NA,NA
+"IT00897","Surgery","Acute Abdomen","Diagnosis","Understand","Author 16",2026-04-30,"Returned",75,5,FALSE,1,0,NA,NA
+"IT00898","Pediatrics","Pediatric Infections","Prevention","Understand","Author 13",2026-04-30,"Approved",72,5,FALSE,0,2,0.38,0.38
+"IT00899","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 09",2026-04-30,"Returned",36,5,FALSE,0,0,NA,NA
+"IT00900","Pediatrics","Neonatology","Prevention","Remember","Author 10",2026-04-30,"Draft",19,5,FALSE,0,0,NA,NA
+"IT00901","Obstetrics & Gynecology","Prenatal Care","Prevention","Understand","Author 01",2026-05-02,"Approved",24,5,FALSE,0,0,NA,NA
+"IT00902","Surgery","Trauma","Prevention","Remember","Author 15",2026-05-03,"Under review",47,5,TRUE,0,0,NA,NA
+"IT00903","Public Health","Primary Care","Management","Understand","Author 18",2026-05-04,"Approved",48,5,FALSE,0,1,0.59,0.11
+"IT00904","Internal Medicine","Pulmonology","Clinical Reasoning","Apply","Author 01",2026-05-04,"Draft",51,5,TRUE,0,0,NA,NA
+"IT00905","Surgery","Acute Abdomen","Diagnosis","Apply","Author 09",2026-05-05,"Under review",88,4,FALSE,0,0,NA,NA
+"IT00906","Internal Medicine","Nephrology","Diagnosis","Apply","Author 11",2026-05-06,"Draft",96,5,FALSE,2,0,NA,NA
+"IT00907","Surgery","Trauma","Clinical Reasoning","Apply","Author 10",2026-05-06,"Draft",81,5,FALSE,0,0,NA,NA
+"IT00908","Public Health","Epidemiology","Prevention","Apply","Author 10",2026-05-06,"Under review",97,5,FALSE,0,0,NA,NA
+"IT00909","Public Health","Health Policy","Clinical Reasoning","Remember","Author 08",2026-05-06,"Draft",11,5,TRUE,1,0,NA,NA
+"IT00910","Pediatrics","Immunization","Prevention","Apply","Author 17",2026-05-07,"Under review",75,5,FALSE,0,0,NA,NA
+"IT00911","Obstetrics & Gynecology","Gynecologic Oncology","Clinical Reasoning","Remember","Author 14",2026-05-08,"Approved",97,5,FALSE,1,2,0.73,0.2
+"IT00912","Internal Medicine","Infectious Diseases","Clinical Reasoning","Remember","Author 06",2026-05-08,"Approved",54,5,FALSE,0,0,NA,NA
+"IT00913","Obstetrics & Gynecology","Family Planning","Prevention","Understand","Author 16",2026-05-08,"Draft",34,5,FALSE,1,0,NA,NA
+"IT00914","Internal Medicine","Cardiology","Diagnosis","Understand","Author 11",2026-05-09,"Draft",65,5,FALSE,1,0,NA,NA
+"IT00915","Public Health","Preventive Medicine","Prevention","Remember","Author 13",2026-05-09,"Draft",44,5,FALSE,1,0,NA,NA
+"IT00916","Public Health","Primary Care","Clinical Reasoning","Remember","Author 14",2026-05-09,"Draft",47,5,FALSE,1,0,NA,NA
+"IT00917","Surgery","Acute Abdomen","Diagnosis","Analyze","Author 14",2026-05-09,"Draft",135,5,FALSE,2,0,NA,NA
+"IT00918","Internal Medicine","Pulmonology","Diagnosis","Understand","Author 13",2026-05-09,"Under review",8,5,FALSE,1,0,NA,NA
+"IT00919","Public Health","Preventive Medicine","Management","Analyze","Author 12",2026-05-10,"Returned",105,5,FALSE,0,0,NA,NA
+"IT00920","Pediatrics","Immunization","Management","Remember","Author 12",2026-05-11,"Under review",8,5,FALSE,0,0,NA,NA
+"IT00921","Surgery","Perioperative Care","Prevention","Apply","Author 04",2026-05-11,"Approved",47,5,FALSE,0,5,0.3,0.26
+"IT00922","Obstetrics & Gynecology","Labor & Delivery","Prevention","Remember","Author 15",2026-05-15,"Under review",8,5,FALSE,3,0,NA,NA
+"IT00923","Public Health","Epidemiology","Management","Apply","Author 12",2026-05-15,"Under review",78,5,FALSE,0,0,NA,NA
+"IT00924","Public Health","Health Policy","Clinical Reasoning","Apply","Author 09",2026-05-15,"Draft",70,5,FALSE,0,0,NA,NA
+"IT00925","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Analyze","Author 03",2026-05-15,"Returned",111,4,FALSE,0,0,NA,NA
+"IT00926","Surgery","Acute Abdomen","Management","Analyze","Author 14",2026-05-15,"Draft",116,4,FALSE,0,0,NA,NA
+"IT00927","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Apply","Author 07",2026-05-16,"Under review",62,5,FALSE,1,0,NA,NA
+"IT00928","Public Health","Preventive Medicine","Clinical Reasoning","Understand","Author 06",2026-05-16,"Under review",33,5,FALSE,1,0,NA,NA
+"IT00929","Public Health","Preventive Medicine","Clinical Reasoning","Understand","Author 09",2026-05-18,"Approved",8,5,FALSE,0,2,0.6,0.07
+"IT00930","Pediatrics","Pediatric Infections","Clinical Reasoning","Remember","Author 11",2026-05-18,"Approved",8,5,FALSE,0,0,NA,NA
+"IT00931","Surgery","Acute Abdomen","Diagnosis","Understand","Author 11",2026-05-19,"Under review",76,5,FALSE,1,0,NA,NA
+"IT00932","Surgery","Acute Abdomen","Diagnosis","Apply","Author 03",2026-05-19,"Under review",95,5,FALSE,1,0,NA,NA
+"IT00933","Internal Medicine","Pulmonology","Clinical Reasoning","Analyze","Author 17",2026-05-20,"Approved",81,5,FALSE,1,2,0.3,0.37
+"IT00934","Internal Medicine","Endocrinology","Management","Remember","Author 08",2026-05-21,"Draft",21,5,FALSE,0,0,NA,NA
+"IT00935","Internal Medicine","Infectious Diseases","Diagnosis","Apply","Author 16",2026-05-22,"Returned",60,4,FALSE,0,0,NA,NA
+"IT00936","Public Health","Health Policy","Clinical Reasoning","Remember","Author 15",2026-05-22,"Under review",17,5,FALSE,2,0,NA,NA
+"IT00937","Public Health","Health Policy","Diagnosis","Apply","Author 05",2026-05-24,"Under review",101,5,TRUE,0,0,NA,NA
+"IT00938","Public Health","Health Policy","Prevention","Apply","Author 09",2026-05-24,"Approved",93,5,FALSE,0,2,0.58,0.36
+"IT00939","Public Health","Health Policy","Diagnosis","Apply","Author 07",2026-05-24,"Approved",140,5,TRUE,1,1,0.18,0.22
+"IT00940","Internal Medicine","Pulmonology","Prevention","Apply","Author 06",2026-05-24,"Under review",84,5,FALSE,2,0,NA,NA
+"IT00941","Pediatrics","Growth & Development","Prevention","Remember","Author 10",2026-05-25,"Approved",47,5,FALSE,1,3,0.61,0.62
+"IT00942","Public Health","Health Policy","Clinical Reasoning","Understand","Author 09",2026-05-25,"Draft",18,5,FALSE,1,0,NA,NA
+"IT00943","Internal Medicine","Cardiology","Prevention","Remember","Author 04",2026-05-25,"Under review",28,5,FALSE,0,0,NA,NA
+"IT00944","Public Health","Preventive Medicine","Prevention","Understand","Author 07",2026-05-26,"Under review",49,5,FALSE,1,0,NA,NA
+"IT00945","Internal Medicine","Endocrinology","Prevention","Remember","Author 12",2026-05-26,"Under review",65,5,FALSE,2,0,NA,NA
+"IT00946","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Remember","Author 17",2026-05-27,"Under review",84,5,FALSE,3,0,NA,NA
+"IT00947","Internal Medicine","Infectious Diseases","Prevention","Apply","Author 06",2026-05-27,"Under review",76,5,FALSE,0,0,NA,NA
+"IT00948","Internal Medicine","Infectious Diseases","Diagnosis","Apply","Author 11",2026-05-27,"Returned",59,5,FALSE,0,0,NA,NA
+"IT00949","Internal Medicine","Nephrology","Prevention","Remember","Author 01",2026-05-28,"Approved",24,5,FALSE,1,2,0.59,0.46
+"IT00950","Pediatrics","Immunization","Clinical Reasoning","Remember","Author 09",2026-05-28,"Approved",65,5,FALSE,2,2,0.85,0.34
+"IT00951","Obstetrics & Gynecology","Prenatal Care","Management","Apply","Author 06",2026-05-29,"Returned",103,5,FALSE,1,0,NA,NA
+"IT00952","Internal Medicine","Cardiology","Management","Understand","Author 16",2026-05-29,"Draft",36,5,FALSE,3,0,NA,NA
+"IT00953","Surgery","Vascular Surgery","Prevention","Apply","Author 08",2026-05-29,"Under review",116,5,FALSE,1,0,NA,NA
+"IT00954","Internal Medicine","Cardiology","Prevention","Remember","Author 07",2026-05-30,"Draft",36,5,FALSE,0,0,NA,NA
+"IT00955","Public Health","Epidemiology","Management","Analyze","Author 10",2026-05-31,"Approved",132,5,TRUE,0,1,0.55,0.12
+"IT00956","Internal Medicine","Pulmonology","Diagnosis","Apply","Author 03",2026-05-31,"Draft",56,5,FALSE,0,0,NA,NA
+"IT00957","Internal Medicine","Infectious Diseases","Prevention","Remember","Author 14",2026-06-02,"Draft",31,5,FALSE,1,0,NA,NA
+"IT00958","Public Health","Preventive Medicine","Management","Analyze","Author 09",2026-06-04,"Returned",93,5,FALSE,0,0,NA,NA
+"IT00959","Internal Medicine","Infectious Diseases","Management","Evaluate","Author 10",2026-06-04,"Under review",100,5,FALSE,1,0,NA,NA
+"IT00960","Internal Medicine","Nephrology","Clinical Reasoning","Apply","Author 04",2026-06-04,"Draft",125,5,FALSE,0,0,NA,NA
+"IT00961","Obstetrics & Gynecology","Family Planning","Diagnosis","Apply","Author 08",2026-06-04,"Approved",79,5,FALSE,1,0,NA,NA
+"IT00962","Surgery","Vascular Surgery","Diagnosis","Apply","Author 01",2026-06-04,"Under review",93,5,TRUE,0,0,NA,NA
+"IT00963","Public Health","Epidemiology","Diagnosis","Analyze","Author 04",2026-06-05,"Approved",107,4,FALSE,0,0,NA,NA
+"IT00964","Internal Medicine","Pulmonology","Clinical Reasoning","Remember","Author 12",2026-06-05,"Approved",13,5,FALSE,0,0,NA,NA
+"IT00965","Pediatrics","Immunization","Management","Remember","Author 04",2026-06-05,"Returned",8,5,FALSE,1,0,NA,NA
+"IT00966","Public Health","Preventive Medicine","Clinical Reasoning","Apply","Author 08",2026-06-06,"Draft",51,4,FALSE,0,0,NA,NA
+"IT00967","Internal Medicine","Infectious Diseases","Prevention","Analyze","Author 04",2026-06-06,"Approved",100,5,FALSE,0,1,0.76,0.25
+"IT00968","Internal Medicine","Infectious Diseases","Clinical Reasoning","Apply","Author 08",2026-06-06,"Draft",72,5,FALSE,0,0,NA,NA
+"IT00969","Public Health","Health Policy","Clinical Reasoning","Apply","Author 16",2026-06-09,"Draft",74,5,FALSE,0,0,NA,NA
+"IT00970","Pediatrics","Neonatology","Clinical Reasoning","Apply","Author 08",2026-06-09,"Under review",67,5,FALSE,0,0,NA,NA
+"IT00971","Public Health","Health Policy","Diagnosis","Apply","Author 11",2026-06-09,"Approved",100,5,FALSE,0,1,0.62,0.35
+"IT00972","Obstetrics & Gynecology","Labor & Delivery","Management","Remember","Author 18",2026-06-09,"Draft",30,4,TRUE,2,0,NA,NA
+"IT00973","Public Health","Primary Care","Prevention","Remember","Author 12",2026-06-10,"Under review",17,5,FALSE,0,0,NA,NA
+"IT00974","Public Health","Preventive Medicine","Clinical Reasoning","Understand","Author 11",2026-06-10,"Approved",67,5,TRUE,1,2,0.62,0.15
+"IT00975","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Apply","Author 17",2026-06-10,"Draft",89,5,FALSE,2,0,NA,NA
+"IT00976","Internal Medicine","Pulmonology","Prevention","Understand","Author 16",2026-06-11,"Returned",32,5,FALSE,0,0,NA,NA
+"IT00977","Internal Medicine","Pulmonology","Clinical Reasoning","Remember","Author 05",2026-06-11,"Returned",19,5,FALSE,2,0,NA,NA
+"IT00978","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Analyze","Author 07",2026-06-11,"Approved",152,5,FALSE,2,1,0.5,0.29
+"IT00979","Internal Medicine","Cardiology","Management","Remember","Author 01",2026-06-11,"Draft",33,4,FALSE,1,0,NA,NA
+"IT00980","Internal Medicine","Pulmonology","Management","Understand","Author 16",2026-06-12,"Approved",53,4,TRUE,1,2,0.69,0.25
+"IT00981","Public Health","Primary Care","Diagnosis","Remember","Author 10",2026-06-12,"Under review",34,5,FALSE,2,0,NA,NA
+"IT00982","Pediatrics","Immunization","Management","Apply","Author 06",2026-06-12,"Returned",63,5,FALSE,0,0,NA,NA
+"IT00983","Surgery","Acute Abdomen","Management","Apply","Author 15",2026-06-12,"Draft",64,4,FALSE,0,0,NA,NA
+"IT00984","Internal Medicine","Nephrology","Prevention","Understand","Author 11",2026-06-13,"Under review",67,5,FALSE,0,0,NA,NA
+"IT00985","Internal Medicine","Pulmonology","Diagnosis","Remember","Author 16",2026-06-13,"Under review",25,5,FALSE,0,0,NA,NA
+"IT00986","Internal Medicine","Pulmonology","Clinical Reasoning","Apply","Author 16",2026-06-14,"Draft",50,5,FALSE,0,0,NA,NA
+"IT00987","Public Health","Preventive Medicine","Diagnosis","Remember","Author 13",2026-06-14,"Approved",36,4,FALSE,1,1,0.64,0.57
+"IT00988","Surgery","Acute Abdomen","Management","Understand","Author 01",2026-06-16,"Under review",40,5,FALSE,1,0,NA,NA
+"IT00989","Internal Medicine","Nephrology","Diagnosis","Remember","Author 12",2026-06-17,"Under review",12,5,FALSE,1,0,NA,NA
+"IT00990","Pediatrics","Neonatology","Clinical Reasoning","Remember","Author 13",2026-06-17,"Under review",69,4,FALSE,3,0,NA,NA
+"IT00991","Pediatrics","Pediatric Infections","Clinical Reasoning","Understand","Author 13",2026-06-17,"Approved",76,5,FALSE,1,1,0.59,0.43
+"IT00992","Surgery","Vascular Surgery","Management","Understand","Author 15",2026-06-18,"Approved",55,4,FALSE,3,1,0.67,0.07
+"IT00993","Surgery","Perioperative Care","Prevention","Remember","Author 15",2026-06-19,"Approved",62,5,FALSE,0,5,0.94,0.53
+"IT00994","Internal Medicine","Endocrinology","Clinical Reasoning","Remember","Author 01",2026-06-19,"Draft",8,5,FALSE,0,0,NA,NA
+"IT00995","Internal Medicine","Endocrinology","Diagnosis","Analyze","Author 18",2026-06-20,"Under review",85,5,FALSE,1,0,NA,NA
+"IT00996","Pediatrics","Pediatric Infections","Diagnosis","Analyze","Author 04",2026-06-20,"Returned",138,4,FALSE,0,0,NA,NA
+"IT00997","Pediatrics","Growth & Development","Clinical Reasoning","Evaluate","Author 07",2026-06-20,"Draft",55,5,FALSE,0,0,NA,NA
+"IT00998","Surgery","Trauma","Clinical Reasoning","Remember","Author 05",2026-06-21,"Under review",40,5,FALSE,2,0,NA,NA
+"IT00999","Internal Medicine","Nephrology","Prevention","Remember","Author 18",2026-06-22,"Approved",10,4,TRUE,0,1,0.73,0.14
+"IT01000","Internal Medicine","Endocrinology","Prevention","Remember","Author 07",2026-06-23,"Returned",48,5,TRUE,0,0,NA,NA
+"IT01001","Public Health","Preventive Medicine","Prevention","Remember","Author 02",2026-06-23,"Approved",72,5,TRUE,0,1,0.6,0.12
+"IT01002","Surgery","Trauma","Prevention","Remember","Author 11",2026-06-23,"Draft",22,4,TRUE,1,0,NA,NA
+"IT01003","Surgery","Vascular Surgery","Prevention","Apply","Author 10",2026-06-24,"Under review",97,5,FALSE,1,0,NA,NA
+"IT01004","Pediatrics","Neonatology","Clinical Reasoning","Apply","Author 05",2026-06-24,"Approved",47,5,FALSE,0,2,0.62,0.27
+"IT01005","Pediatrics","Growth & Development","Clinical Reasoning","Remember","Author 01",2026-06-25,"Approved",20,4,FALSE,0,6,0.56,0.26
+"IT01006","Public Health","Preventive Medicine","Clinical Reasoning","Remember","Author 10",2026-06-26,"Draft",51,5,FALSE,0,0,NA,NA
+"IT01007","Public Health","Epidemiology","Diagnosis","Analyze","Author 18",2026-06-27,"Approved",102,4,FALSE,0,2,0.66,0.38
+"IT01008","Pediatrics","Growth & Development","Clinical Reasoning","Analyze","Author 12",2026-06-27,"Returned",35,5,FALSE,1,0,NA,NA
+"IT01009","Pediatrics","Pediatric Infections","Management","Apply","Author 18",2026-06-28,"Approved",83,5,FALSE,2,3,0.79,0.36
+"IT01010","Pediatrics","Growth & Development","Management","Apply","Author 11",2026-06-28,"Approved",66,5,FALSE,0,0,NA,NA
+"IT01011","Pediatrics","Neonatology","Diagnosis","Remember","Author 16",2026-06-28,"Under review",43,5,FALSE,0,0,NA,NA
+"IT01012","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Remember","Author 16",2026-06-28,"Approved",8,5,FALSE,0,5,0.84,0.4
+"IT01013","Surgery","Trauma","Clinical Reasoning","Apply","Author 06",2026-06-29,"Approved",64,5,FALSE,0,2,0.41,0.31
+"IT01014","Surgery","Acute Abdomen","Diagnosis","Apply","Author 12",2026-06-30,"Draft",91,5,TRUE,0,0,NA,NA
+"IT01015","Internal Medicine","Pulmonology","Diagnosis","Remember","Author 12",2026-07-02,"Under review",20,4,FALSE,2,0,NA,NA
+"IT01016","Surgery","Trauma","Management","Understand","Author 06",2026-07-03,"Under review",8,5,FALSE,0,0,NA,NA
+"IT01017","Surgery","Vascular Surgery","Clinical Reasoning","Apply","Author 08",2026-07-03,"Approved",78,5,FALSE,1,1,0.72,0.23
+"IT01018","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Understand","Author 16",2026-07-04,"Under review",57,5,FALSE,0,0,NA,NA
+"IT01019","Obstetrics & Gynecology","Labor & Delivery","Clinical Reasoning","Analyze","Author 14",2026-07-05,"Under review",75,5,FALSE,0,0,NA,NA
+"IT01020","Internal Medicine","Endocrinology","Prevention","Understand","Author 11",2026-07-06,"Draft",52,5,TRUE,0,0,NA,NA
+"IT01021","Surgery","Acute Abdomen","Clinical Reasoning","Remember","Author 02",2026-07-06,"Approved",33,5,TRUE,1,3,0.6,0.26
+"IT01022","Internal Medicine","Endocrinology","Prevention","Remember","Author 10",2026-07-06,"Under review",41,4,FALSE,1,0,NA,NA
+"IT01023","Public Health","Health Policy","Prevention","Understand","Author 04",2026-07-06,"Under review",67,4,TRUE,0,0,NA,NA
+"IT01024","Surgery","Acute Abdomen","Clinical Reasoning","Apply","Author 04",2026-07-07,"Under review",103,5,FALSE,1,0,NA,NA
+"IT01025","Internal Medicine","Infectious Diseases","Clinical Reasoning","Apply","Author 11",2026-07-07,"Approved",80,5,FALSE,0,1,0.6,0.23
+"IT01026","Surgery","Vascular Surgery","Prevention","Analyze","Author 04",2026-07-07,"Under review",61,5,FALSE,0,0,NA,NA
+"IT01027","Pediatrics","Immunization","Clinical Reasoning","Remember","Author 07",2026-07-08,"Draft",50,4,FALSE,1,0,NA,NA
+"IT01028","Obstetrics & Gynecology","Gynecologic Oncology","Management","Apply","Author 17",2026-07-11,"Approved",99,5,FALSE,0,0,NA,NA
+"IT01029","Public Health","Epidemiology","Prevention","Remember","Author 16",2026-07-11,"Draft",46,5,FALSE,0,0,NA,NA
+"IT01030","Surgery","Vascular Surgery","Diagnosis","Analyze","Author 01",2026-07-11,"Under review",67,5,FALSE,0,0,NA,NA
+"IT01031","Internal Medicine","Endocrinology","Prevention","Remember","Author 14",2026-07-11,"Approved",48,4,TRUE,3,3,0.64,0.27
+"IT01032","Surgery","Vascular Surgery","Prevention","Understand","Author 16",2026-07-12,"Draft",58,5,TRUE,0,0,NA,NA
+"IT01033","Internal Medicine","Cardiology","Clinical Reasoning","Evaluate","Author 04",2026-07-12,"Approved",68,5,FALSE,1,0,NA,NA
+"IT01034","Internal Medicine","Pulmonology","Diagnosis","Remember","Author 10",2026-07-13,"Under review",69,5,FALSE,2,0,NA,NA
+"IT01035","Obstetrics & Gynecology","Family Planning","Diagnosis","Understand","Author 05",2026-07-13,"Approved",46,4,FALSE,1,0,NA,NA
+"IT01036","Obstetrics & Gynecology","Labor & Delivery","Prevention","Apply","Author 02",2026-07-13,"Approved",72,5,FALSE,0,0,NA,NA
+"IT01037","Pediatrics","Immunization","Clinical Reasoning","Apply","Author 18",2026-07-13,"Approved",75,5,FALSE,1,2,0.48,0.17
+"IT01038","Pediatrics","Immunization","Management","Remember","Author 17",2026-07-13,"Under review",35,5,FALSE,0,0,NA,NA
+"IT01039","Internal Medicine","Infectious Diseases","Prevention","Apply","Author 06",2026-07-14,"Approved",105,4,TRUE,1,3,0.45,0.09
+"IT01040","Pediatrics","Neonatology","Clinical Reasoning","Analyze","Author 07",2026-07-15,"Under review",96,5,TRUE,0,0,NA,NA
+"IT01041","Internal Medicine","Cardiology","Diagnosis","Understand","Author 12",2026-07-16,"Approved",73,5,FALSE,0,1,0.16,0.25
+"IT01042","Internal Medicine","Cardiology","Diagnosis","Apply","Author 11",2026-07-19,"Approved",98,5,FALSE,1,3,0.52,0.31
+"IT01043","Obstetrics & Gynecology","Labor & Delivery","Management","Apply","Author 16",2026-07-19,"Under review",51,5,FALSE,0,0,NA,NA
+"IT01044","Internal Medicine","Endocrinology","Diagnosis","Apply","Author 12",2026-07-19,"Under review",61,5,FALSE,0,0,NA,NA
+"IT01045","Internal Medicine","Pulmonology","Management","Apply","Author 14",2026-07-20,"Returned",126,4,FALSE,0,0,NA,NA
+"IT01046","Surgery","Vascular Surgery","Prevention","Remember","Author 12",2026-07-21,"Approved",48,5,FALSE,2,1,0.82,0.13
+"IT01047","Pediatrics","Neonatology","Clinical Reasoning","Remember","Author 16",2026-07-22,"Returned",71,4,FALSE,2,0,NA,NA
+"IT01048","Pediatrics","Immunization","Prevention","Apply","Author 04",2026-07-23,"Approved",95,4,FALSE,1,2,0.72,0.1
+"IT01049","Internal Medicine","Pulmonology","Management","Apply","Author 12",2026-07-24,"Approved",71,4,TRUE,1,1,0.62,0.4
+"IT01050","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Analyze","Author 05",2026-07-24,"Under review",71,4,FALSE,1,0,NA,NA
+"IT01051","Surgery","Acute Abdomen","Prevention","Apply","Author 09",2026-07-28,"Approved",80,5,FALSE,0,8,0.67,0.21
+"IT01052","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Remember","Author 05",2026-07-29,"Returned",8,5,FALSE,1,0,NA,NA
+"IT01053","Internal Medicine","Endocrinology","Management","Remember","Author 08",2026-07-31,"Under review",60,5,FALSE,1,0,NA,NA
+"IT01054","Internal Medicine","Endocrinology","Management","Apply","Author 05",2026-07-31,"Under review",64,5,FALSE,1,0,NA,NA
+"IT01055","Surgery","Vascular Surgery","Management","Apply","Author 15",2026-07-31,"Under review",114,4,FALSE,1,0,NA,NA
+"IT01056","Internal Medicine","Infectious Diseases","Management","Understand","Author 16",2026-07-31,"Returned",74,5,FALSE,0,0,NA,NA
+"IT01057","Internal Medicine","Nephrology","Clinical Reasoning","Remember","Author 17",2026-07-31,"Draft",51,4,FALSE,0,0,NA,NA
+"IT01058","Internal Medicine","Infectious Diseases","Management","Remember","Author 14",2026-08-01,"Draft",23,4,FALSE,1,0,NA,NA
+"IT01059","Public Health","Health Policy","Clinical Reasoning","Understand","Author 11",2026-08-01,"Approved",8,5,FALSE,0,0,NA,NA
+"IT01060","Public Health","Primary Care","Prevention","Apply","Author 05",2026-08-01,"Draft",82,4,FALSE,0,0,NA,NA
+"IT01061","Surgery","Trauma","Clinical Reasoning","Apply","Author 05",2026-08-01,"Under review",98,4,FALSE,0,0,NA,NA
+"IT01062","Pediatrics","Neonatology","Clinical Reasoning","Remember","Author 08",2026-08-02,"Draft",59,5,TRUE,1,0,NA,NA
+"IT01063","Internal Medicine","Pulmonology","Clinical Reasoning","Understand","Author 15",2026-08-02,"Returned",68,4,FALSE,1,0,NA,NA
+"IT01064","Pediatrics","Pediatric Infections","Management","Remember","Author 14",2026-08-02,"Approved",69,5,TRUE,1,2,0.71,0.16
+"IT01065","Public Health","Preventive Medicine","Prevention","Apply","Author 02",2026-08-04,"Draft",115,4,FALSE,2,0,NA,NA
+"IT01066","Internal Medicine","Pulmonology","Prevention","Analyze","Author 05",2026-08-04,"Returned",93,5,FALSE,2,0,NA,NA
+"IT01067","Pediatrics","Pediatric Infections","Prevention","Understand","Author 12",2026-08-05,"Under review",66,5,FALSE,0,0,NA,NA
+"IT01068","Internal Medicine","Infectious Diseases","Prevention","Remember","Author 01",2026-08-05,"Approved",14,5,FALSE,0,1,0.59,0.37
+"IT01069","Surgery","Perioperative Care","Diagnosis","Analyze","Author 03",2026-08-08,"Draft",88,5,FALSE,0,0,NA,NA
+"IT01070","Internal Medicine","Infectious Diseases","Diagnosis","Understand","Author 15",2026-08-08,"Draft",46,4,FALSE,0,0,NA,NA
+"IT01071","Public Health","Health Policy","Clinical Reasoning","Understand","Author 14",2026-08-08,"Under review",49,5,TRUE,1,0,NA,NA
+"IT01072","Obstetrics & Gynecology","Labor & Delivery","Diagnosis","Remember","Author 07",2026-08-09,"Under review",30,5,TRUE,0,0,NA,NA
+"IT01073","Surgery","Trauma","Management","Understand","Author 12",2026-08-10,"Draft",58,5,FALSE,0,0,NA,NA
+"IT01074","Public Health","Health Policy","Diagnosis","Remember","Author 16",2026-08-10,"Draft",40,4,FALSE,2,0,NA,NA
+"IT01075","Public Health","Epidemiology","Prevention","Apply","Author 03",2026-08-10,"Draft",69,5,TRUE,0,0,NA,NA
+"IT01076","Pediatrics","Pediatric Infections","Diagnosis","Apply","Author 05",2026-08-10,"Under review",131,5,FALSE,1,0,NA,NA
+"IT01077","Internal Medicine","Pulmonology","Management","Remember","Author 11",2026-08-10,"Draft",25,5,FALSE,3,0,NA,NA
+"IT01078","Surgery","Acute Abdomen","Management","Remember","Author 05",2026-08-12,"Draft",29,5,FALSE,3,0,NA,NA
+"IT01079","Surgery","Perioperative Care","Clinical Reasoning","Apply","Author 16",2026-08-12,"Approved",105,5,FALSE,0,0,NA,NA
+"IT01080","Obstetrics & Gynecology","Prenatal Care","Prevention","Analyze","Author 09",2026-08-12,"Under review",80,4,FALSE,1,0,NA,NA
+"IT01081","Obstetrics & Gynecology","Prenatal Care","Management","Remember","Author 03",2026-08-12,"Approved",19,5,FALSE,0,0,NA,NA
+"IT01082","Public Health","Epidemiology","Clinical Reasoning","Understand","Author 09",2026-08-12,"Draft",89,4,FALSE,0,0,NA,NA
+"IT01083","Obstetrics & Gynecology","Prenatal Care","Prevention","Apply","Author 18",2026-08-13,"Approved",104,5,FALSE,0,1,0.46,0.57
+"IT01084","Pediatrics","Immunization","Diagnosis","Analyze","Author 03",2026-08-13,"Approved",66,4,FALSE,1,1,0.19,0.34
+"IT01085","Obstetrics & Gynecology","Gynecologic Oncology","Clinical Reasoning","Understand","Author 04",2026-08-15,"Approved",23,5,FALSE,0,4,0.77,0.37
+"IT01086","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Apply","Author 01",2026-08-15,"Approved",93,5,FALSE,2,1,0.6,0.29
+"IT01087","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Remember","Author 17",2026-08-16,"Returned",45,4,FALSE,0,0,NA,NA
+"IT01088","Obstetrics & Gynecology","Prenatal Care","Clinical Reasoning","Apply","Author 07",2026-08-17,"Under review",69,5,FALSE,1,0,NA,NA
+"IT01089","Internal Medicine","Nephrology","Clinical Reasoning","Apply","Author 07",2026-08-18,"Under review",93,5,FALSE,0,0,NA,NA
+"IT01090","Public Health","Epidemiology","Management","Remember","Author 04",2026-08-19,"Under review",8,5,FALSE,1,0,NA,NA
+"IT01091","Pediatrics","Pediatric Infections","Management","Understand","Author 15",2026-08-19,"Draft",27,5,FALSE,1,0,NA,NA
+"IT01092","Obstetrics & Gynecology","Family Planning","Management","Apply","Author 08",2026-08-19,"Draft",63,5,FALSE,1,0,NA,NA
+"IT01093","Surgery","Acute Abdomen","Prevention","Remember","Author 05",2026-08-20,"Under review",23,4,FALSE,3,0,NA,NA
+"IT01094","Surgery","Vascular Surgery","Diagnosis","Remember","Author 11",2026-08-20,"Under review",47,5,FALSE,0,0,NA,NA
+"IT01095","Pediatrics","Pediatric Infections","Diagnosis","Remember","Author 13",2026-08-20,"Under review",74,5,FALSE,2,0,NA,NA
+"IT01096","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 02",2026-08-22,"Under review",44,5,FALSE,0,0,NA,NA
+"IT01097","Surgery","Vascular Surgery","Clinical Reasoning","Apply","Author 05",2026-08-22,"Approved",96,5,FALSE,0,4,0.71,0.33
+"IT01098","Pediatrics","Neonatology","Management","Apply","Author 17",2026-08-23,"Approved",69,5,FALSE,0,3,0.51,0.29
+"IT01099","Internal Medicine","Infectious Diseases","Management","Remember","Author 08",2026-08-23,"Under review",54,5,FALSE,1,0,NA,NA
+"IT01100","Public Health","Primary Care","Prevention","Understand","Author 07",2026-08-23,"Draft",50,5,FALSE,0,0,NA,NA
+"IT01101","Obstetrics & Gynecology","Gynecologic Oncology","Diagnosis","Analyze","Author 13",2026-08-23,"Draft",105,5,FALSE,0,0,NA,NA
+"IT01102","Internal Medicine","Nephrology","Clinical Reasoning","Remember","Author 08",2026-08-23,"Under review",8,5,FALSE,0,0,NA,NA
+"IT01103","Surgery","Trauma","Prevention","Apply","Author 08",2026-08-25,"Approved",78,5,FALSE,0,5,0.8,0.3
+"IT01104","Pediatrics","Immunization","Diagnosis","Apply","Author 10",2026-08-25,"Draft",73,5,FALSE,0,0,NA,NA
+"IT01105","Obstetrics & Gynecology","Labor & Delivery","Prevention","Remember","Author 05",2026-08-25,"Draft",8,5,FALSE,0,0,NA,NA
+"IT01106","Internal Medicine","Nephrology","Prevention","Understand","Author 11",2026-08-26,"Returned",34,4,TRUE,0,0,NA,NA
+"IT01107","Pediatrics","Growth & Development","Prevention","Apply","Author 02",2026-08-26,"Approved",65,5,FALSE,0,1,0.42,0.28
+"IT01108","Obstetrics & Gynecology","Family Planning","Diagnosis","Remember","Author 01",2026-08-26,"Approved",13,4,FALSE,2,2,0.6,0.28
+"IT01109","Internal Medicine","Pulmonology","Clinical Reasoning","Understand","Author 10",2026-08-26,"Draft",25,5,FALSE,0,0,NA,NA
+"IT01110","Pediatrics","Growth & Development","Diagnosis","Analyze","Author 01",2026-08-27,"Approved",87,5,FALSE,0,0,NA,NA
+"IT01111","Public Health","Health Policy","Management","Apply","Author 13",2026-08-27,"Under review",54,5,TRUE,0,0,NA,NA
+"IT01112","Surgery","Trauma","Diagnosis","Understand","Author 06",2026-08-28,"Draft",48,5,FALSE,0,0,NA,NA
+"IT01113","Internal Medicine","Cardiology","Management","Apply","Author 17",2026-08-28,"Under review",82,5,FALSE,1,0,NA,NA
+"IT01114","Public Health","Preventive Medicine","Management","Understand","Author 17",2026-08-29,"Draft",75,4,FALSE,0,0,NA,NA
+"IT01115","Internal Medicine","Nephrology","Clinical Reasoning","Understand","Author 16",2026-08-31,"Approved",39,5,FALSE,1,1,0.12,0.22
+"IT01116","Surgery","Acute Abdomen","Prevention","Understand","Author 16",2026-09-01,"Approved",8,5,FALSE,1,1,0.57,0.18
+"IT01117","Internal Medicine","Nephrology","Management","Understand","Author 15",2026-09-03,"Under review",39,5,FALSE,0,0,NA,NA
+"IT01118","Pediatrics","Neonatology","Prevention","Apply","Author 12",2026-09-03,"Draft",74,4,FALSE,0,0,NA,NA
+"IT01119","Public Health","Preventive Medicine","Management","Apply","Author 17",2026-09-05,"Draft",40,5,FALSE,1,0,NA,NA
+"IT01120","Internal Medicine","Infectious Diseases","Management","Analyze","Author 10",2026-09-06,"Approved",107,5,FALSE,1,0,NA,NA
+"IT01121","Pediatrics","Immunization","Diagnosis","Understand","Author 01",2026-09-07,"Approved",25,5,FALSE,1,2,0.51,0.3
+"IT01122","Internal Medicine","Endocrinology","Prevention","Remember","Author 11",2026-09-07,"Under review",8,5,FALSE,1,0,NA,NA
+"IT01123","Public Health","Health Policy","Management","Apply","Author 10",2026-09-07,"Draft",94,4,FALSE,1,0,NA,NA
+"IT01124","Surgery","Perioperative Care","Management","Analyze","Author 10",2026-09-10,"Approved",97,4,FALSE,0,2,0.73,0.36
+"IT01125","Internal Medicine","Pulmonology","Clinical Reasoning","Understand","Author 02",2026-09-11,"Returned",24,5,FALSE,2,0,NA,NA
+"IT01126","Obstetrics & Gynecology","Family Planning","Management","Remember","Author 01",2026-09-11,"Approved",61,4,FALSE,0,1,0.9,0.18
+"IT01127","Pediatrics","Immunization","Management","Understand","Author 11",2026-09-11,"Returned",25,5,FALSE,0,0,NA,NA
+"IT01128","Surgery","Vascular Surgery","Prevention","Understand","Author 10",2026-09-11,"Under review",25,5,FALSE,0,0,NA,NA
+"IT01129","Pediatrics","Growth & Development","Clinical Reasoning","Understand","Author 09",2026-09-11,"Returned",47,5,FALSE,1,0,NA,NA
+"IT01130","Surgery","Acute Abdomen","Diagnosis","Remember","Author 18",2026-09-12,"Under review",48,5,FALSE,0,0,NA,NA
+"IT01131","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Understand","Author 10",2026-09-13,"Approved",93,5,FALSE,0,1,0.44,0.1
+"IT01132","Obstetrics & Gynecology","Prenatal Care","Prevention","Understand","Author 15",2026-09-13,"Draft",20,5,FALSE,0,0,NA,NA
+"IT01133","Pediatrics","Growth & Development","Clinical Reasoning","Apply","Author 08",2026-09-13,"Draft",90,4,FALSE,1,0,NA,NA
+"IT01134","Internal Medicine","Infectious Diseases","Diagnosis","Understand","Author 01",2026-09-14,"Returned",48,5,FALSE,0,0,NA,NA
+"IT01135","Obstetrics & Gynecology","Labor & Delivery","Diagnosis","Understand","Author 03",2026-09-14,"Approved",8,4,FALSE,0,1,0.4,0.34
+"IT01136","Internal Medicine","Cardiology","Clinical Reasoning","Understand","Author 04",2026-09-15,"Returned",8,4,FALSE,1,0,NA,NA
+"IT01137","Surgery","Acute Abdomen","Management","Apply","Author 17",2026-09-16,"Draft",72,4,FALSE,0,0,NA,NA
+"IT01138","Pediatrics","Pediatric Infections","Management","Apply","Author 11",2026-09-16,"Draft",144,5,FALSE,1,0,NA,NA
+"IT01139","Surgery","Trauma","Clinical Reasoning","Understand","Author 02",2026-09-16,"Under review",22,5,FALSE,0,0,NA,NA
+"IT01140","Pediatrics","Neonatology","Clinical Reasoning","Remember","Author 18",2026-09-19,"Under review",37,5,FALSE,0,0,NA,NA
+"IT01141","Public Health","Health Policy","Prevention","Apply","Author 10",2026-09-20,"Draft",110,5,FALSE,0,0,NA,NA
+"IT01142","Surgery","Perioperative Care","Prevention","Apply","Author 07",2026-09-20,"Draft",89,4,FALSE,0,0,NA,NA
+"IT01143","Internal Medicine","Nephrology","Diagnosis","Understand","Author 05",2026-09-21,"Approved",57,5,FALSE,0,2,0.89,0.13
+"IT01144","Obstetrics & Gynecology","Family Planning","Diagnosis","Apply","Author 07",2026-09-21,"Draft",69,5,TRUE,1,0,NA,NA
+"IT01145","Obstetrics & Gynecology","Gynecologic Oncology","Prevention","Apply","Author 07",2026-09-22,"Under review",99,5,FALSE,0,0,NA,NA
+"IT01146","Obstetrics & Gynecology","Prenatal Care","Management","Apply","Author 14",2026-09-22,"Draft",54,5,FALSE,0,0,NA,NA
+"IT01147","Public Health","Primary Care","Clinical Reasoning","Understand","Author 01",2026-09-22,"Under review",57,4,FALSE,0,0,NA,NA
+"IT01148","Obstetrics & Gynecology","Prenatal Care","Diagnosis","Remember","Author 15",2026-09-22,"Draft",13,5,FALSE,0,0,NA,NA
+"IT01149","Public Health","Health Policy","Management","Remember","Author 14",2026-09-23,"Approved",49,4,FALSE,0,0,NA,NA
+"IT01150","Pediatrics","Pediatric Infections","Management","Remember","Author 02",2026-09-23,"Draft",51,5,FALSE,2,0,NA,NA
+"IT01151","Surgery","Acute Abdomen","Prevention","Evaluate","Author 16",2026-09-24,"Draft",73,4,FALSE,0,0,NA,NA
+"IT01152","Internal Medicine","Cardiology","Clinical Reasoning","Analyze","Author 16",2026-09-26,"Approved",116,5,FALSE,1,1,0.64,0.48
+"IT01153","Surgery","Acute Abdomen","Clinical Reasoning","Apply","Author 06",2026-09-26,"Draft",77,5,FALSE,0,0,NA,NA
+"IT01154","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 18",2026-09-27,"Under review",81,5,FALSE,0,0,NA,NA
+"IT01155","Surgery","Trauma","Management","Apply","Author 01",2026-09-27,"Draft",45,5,FALSE,0,0,NA,NA
+"IT01156","Obstetrics & Gynecology","Prenatal Care","Prevention","Apply","Author 10",2026-09-27,"Approved",66,5,FALSE,0,2,0.69,0.42
+"IT01157","Obstetrics & Gynecology","Labor & Delivery","Prevention","Remember","Author 01",2026-09-27,"Approved",48,5,FALSE,0,2,0.82,0.22
+"IT01158","Internal Medicine","Cardiology","Management","Remember","Author 15",2026-09-28,"Under review",53,5,FALSE,1,0,NA,NA
+"IT01159","Obstetrics & Gynecology","Labor & Delivery","Management","Apply","Author 13",2026-09-30,"Approved",93,5,FALSE,0,3,0.08,0.52
+"IT01160","Internal Medicine","Infectious Diseases","Prevention","Understand","Author 03",2026-09-30,"Under review",50,5,FALSE,0,0,NA,NA
+"IT01161","Pediatrics","Neonatology","Diagnosis","Understand","Author 09",2026-10-01,"Under review",56,5,TRUE,0,0,NA,NA
+"IT01162","Public Health","Primary Care","Diagnosis","Analyze","Author 02",2026-10-01,"Approved",43,5,FALSE,0,0,NA,NA
+"IT01163","Obstetrics & Gynecology","Gynecologic Oncology","Prevention","Understand","Author 07",2026-10-01,"Approved",80,4,FALSE,0,4,0.86,0.24
+"IT01164","Public Health","Preventive Medicine","Prevention","Apply","Author 03",2026-10-01,"Approved",72,5,FALSE,0,2,0.28,0.11
+"IT01165","Obstetrics & Gynecology","Prenatal Care","Prevention","Apply","Author 08",2026-10-01,"Returned",100,5,FALSE,0,0,NA,NA
+"IT01166","Surgery","Vascular Surgery","Prevention","Remember","Author 12",2026-10-01,"Draft",24,4,FALSE,1,0,NA,NA
+"IT01167","Obstetrics & Gynecology","Family Planning","Diagnosis","Apply","Author 04",2026-10-02,"Draft",108,4,FALSE,1,0,NA,NA
+"IT01168","Pediatrics","Neonatology","Prevention","Remember","Author 08",2026-10-02,"Under review",26,5,FALSE,0,0,NA,NA
+"IT01169","Public Health","Health Policy","Prevention","Understand","Author 02",2026-10-02,"Approved",33,4,FALSE,0,0,NA,NA
+"IT01170","Obstetrics & Gynecology","Gynecologic Oncology","Management","Understand","Author 15",2026-10-03,"Under review",54,4,FALSE,1,0,NA,NA
+"IT01171","Surgery","Acute Abdomen","Diagnosis","Understand","Author 14",2026-10-03,"Draft",89,5,FALSE,0,0,NA,NA
+"IT01172","Surgery","Trauma","Clinical Reasoning","Remember","Author 02",2026-10-04,"Under review",26,5,TRUE,1,0,NA,NA
+"IT01173","Pediatrics","Neonatology","Diagnosis","Remember","Author 17",2026-10-04,"Approved",57,4,FALSE,1,3,0.86,0.21
+"IT01174","Surgery","Perioperative Care","Management","Remember","Author 08",2026-10-04,"Under review",13,5,FALSE,1,0,NA,NA
+"IT01175","Surgery","Acute Abdomen","Management","Apply","Author 07",2026-10-05,"Approved",104,5,FALSE,0,5,0.79,0.55
+"IT01176","Internal Medicine","Endocrinology","Clinical Reasoning","Understand","Author 04",2026-10-06,"Draft",21,5,FALSE,1,0,NA,NA
+"IT01177","Pediatrics","Pediatric Infections","Prevention","Remember","Author 15",2026-10-06,"Approved",59,5,FALSE,0,1,0.52,0.26
+"IT01178","Pediatrics","Immunization","Diagnosis","Remember","Author 07",2026-10-06,"Approved",52,4,FALSE,1,2,0.8,0.19
+"IT01179","Internal Medicine","Endocrinology","Clinical Reasoning","Apply","Author 07",2026-10-08,"Under review",112,5,FALSE,1,0,NA,NA
+"IT01180","Pediatrics","Neonatology","Prevention","Remember","Author 18",2026-10-08,"Under review",27,4,FALSE,0,0,NA,NA
+"IT01181","Pediatrics","Pediatric Infections","Prevention","Remember","Author 04",2026-10-09,"Under review",30,5,FALSE,1,0,NA,NA
+"IT01182","Surgery","Trauma","Prevention","Remember","Author 09",2026-10-09,"Approved",22,4,FALSE,0,1,0.27,0.22
+"IT01183","Surgery","Trauma","Prevention","Remember","Author 01",2026-10-10,"Under review",13,5,FALSE,1,0,NA,NA
+"IT01184","Internal Medicine","Nephrology","Diagnosis","Remember","Author 16",2026-10-10,"Under review",10,5,FALSE,1,0,NA,NA
+"IT01185","Obstetrics & Gynecology","Labor & Delivery","Management","Analyze","Author 18",2026-10-10,"Under review",59,5,FALSE,1,0,NA,NA
+"IT01186","Pediatrics","Pediatric Infections","Diagnosis","Remember","Author 08",2026-10-10,"Approved",61,5,FALSE,1,0,NA,NA
+"IT01187","Surgery","Acute Abdomen","Diagnosis","Understand","Author 11",2026-10-11,"Draft",8,5,FALSE,1,0,NA,NA
+"IT01188","Pediatrics","Neonatology","Prevention","Apply","Author 10",2026-10-11,"Draft",61,5,FALSE,3,0,NA,NA
+"IT01189","Internal Medicine","Pulmonology","Prevention","Apply","Author 07",2026-10-11,"Draft",76,5,TRUE,0,0,NA,NA
+"IT01190","Pediatrics","Immunization","Diagnosis","Remember","Author 18",2026-10-12,"Under review",54,4,FALSE,2,0,NA,NA
+"IT01191","Pediatrics","Pediatric Infections","Prevention","Understand","Author 08",2026-10-12,"Returned",8,5,TRUE,1,0,NA,NA
+"IT01192","Surgery","Vascular Surgery","Prevention","Analyze","Author 06",2026-10-13,"Under review",106,4,FALSE,0,0,NA,NA
+"IT01193","Internal Medicine","Endocrinology","Diagnosis","Understand","Author 16",2026-10-13,"Draft",30,5,FALSE,0,0,NA,NA
+"IT01194","Internal Medicine","Nephrology","Management","Remember","Author 14",2026-10-13,"Approved",42,5,FALSE,1,1,0.86,0.22
+"IT01195","Pediatrics","Pediatric Infections","Diagnosis","Evaluate","Author 10",2026-10-13,"Approved",70,5,FALSE,1,0,NA,NA
+"IT01196","Pediatrics","Neonatology","Management","Apply","Author 02",2026-10-14,"Approved",77,5,FALSE,0,0,NA,NA
+"IT01197","Internal Medicine","Infectious Diseases","Prevention","Remember","Author 11",2026-10-14,"Under review",50,5,FALSE,0,0,NA,NA
+"IT01198","Obstetrics & Gynecology","Family Planning","Clinical Reasoning","Remember","Author 07",2026-10-15,"Returned",43,5,TRUE,1,0,NA,NA
+"IT01199","Internal Medicine","Pulmonology","Diagnosis","Apply","Author 10",2026-10-16,"Draft",75,5,FALSE,0,0,NA,NA
+"IT01200","Pediatrics","Pediatric Infections","Clinical Reasoning","Apply","Author 06",2026-10-16,"Approved",52,4,FALSE,0,2,0.22,0.08

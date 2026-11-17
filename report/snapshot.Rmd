@@ -1,0 +1,56 @@
+---
+title: "Item Bank Snapshot"
+subtitle: "Synthetic sample bank"
+output:
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, fig.width = 8, fig.height = 3.8)
+source("R/indicators.R")
+source("R/plots.R")
+b <- read_bank("examples/item_bank.csv")
+k <- kpis(b)
+target <- c("Internal Medicine" = 25, "Surgery" = 20, "Pediatrics" = 20,
+            "Obstetrics & Gynecology" = 20, "Public Health" = 15)
+cov <- coverage(b, target)
+```
+
+| Items in bank | Approved | Higher-order (approved) | With detected flaws | Approved but never used |
+|---:|---:|---:|---:|---:|
+| `r k$total` | `r k$approved` (`r round(k$approved_pct)`%) | `r round(k$higher_order_pct)`% | `r round(k$flawed_pct)`% | `r k$never_used` |
+
+## Coverage against the blueprint
+
+Target: eight parallel 100-item forms.
+
+```{r}
+plot_coverage(cov)
+knitr::kable(cov, col.names = c("Domain", "Target %", "Approved", "Needed", "Coverage %", "Gap"))
+```
+
+## Cognitive level
+
+```{r}
+plot_bloom(b)
+knitr::kable(bloom_table(b))
+```
+
+## Review pipeline
+
+```{r}
+plot_status(b)
+plot_flow(monthly_flow(b))
+```
+
+## Psychometric quality of used items
+
+```{r, fig.height=4.2}
+u <- psychometric_flags(b)
+plot_psychometrics(u)
+knitr::kable(as.data.frame(table(flag = u$flag)), col.names = c("Flag", "Items"))
+```
